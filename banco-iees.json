@@ -1,0 +1,2575 @@
+{
+  "modulo": "Examen de Conocimientos · Consejos Distritales y Municipales IEES 2026–2027",
+  "fuente": "Guía de estudio para aspirantes a integrar los Consejos Distritales y Municipales Electorales, IEE Sinaloa",
+  "version": "2026-10-23",
+  "temas": {
+    "1": "Ciudadanía, partidos y cargos",
+    "2": "Autoridades y consejos electorales",
+    "3": "Proceso electoral, jornada y cómputos",
+    "4": "Igualdad y justicia electoral"
+  },
+  "normas": {
+    "N4": "Consejos distritales y municipales",
+    "N3": "IEES, INE y Oficialía Electoral",
+    "N5": "Cargos 2027, elección judicial y modalidades de voto",
+    "N6": "Proceso electoral y casillas",
+    "N8": "Después de la jornada y cómputos",
+    "N2": "Partidos y candidaturas independientes",
+    "N7": "Jornada electoral",
+    "N9": "Igualdad de género, VPMRG y acciones afirmativas",
+    "N10": "Impugnación, sanciones y delitos",
+    "N1": "Derechos y obligaciones"
+  },
+  "preguntas": [
+    {
+      "id": "IE1-01",
+      "simulacro": 1,
+      "tema": "2",
+      "norma": "N4",
+      "fmt": "A",
+      "q": "¿Cómo se integra un Consejo Distrital Electoral del IEES?",
+      "opts": [
+        "Una Presidencia y seis consejerías con voz y voto, una Secretaría con voz y representaciones con voz",
+        "Una Presidencia y cuatro consejerías con voz y voto, una Secretaría con voz y representaciones con voz",
+        "Una Presidencia y cinco consejerías con voz y voto, una Secretaría y dos vocalías con voz",
+        "Seis consejerías con voz y voto, una Secretaría con voz y voto y representaciones con voz"
+      ],
+      "correct": 0,
+      "expl": "El Consejo Distrital se integra con Presidencia y 6 consejerías propietarias con voz y voto, una Secretaría Distrital con voz y las representaciones con voz.",
+      "fuente": "Guía IEES, 3.4 Consejos Distritales"
+    },
+    {
+      "id": "IE1-02",
+      "simulacro": 1,
+      "tema": "2",
+      "norma": "N4",
+      "fmt": "A",
+      "q": "En los municipios que tienen un solo distrito electoral:",
+      "opts": [
+        "El Consejo Distrital hace las veces de Consejo Municipal",
+        "El Consejo Municipal hace las veces de Consejo Distrital",
+        "Se instalan ambos consejos en la misma sede",
+        "El Consejo General realiza directamente el cómputo municipal"
+      ],
+      "correct": 0,
+      "expl": "Así lo establece la sección 3.5 de la guía.",
+      "fuente": "Guía IEES, 3.5 Consejos Municipales"
+    },
+    {
+      "id": "IE1-03",
+      "simulacro": 1,
+      "tema": "2",
+      "norma": "N4",
+      "fmt": "A",
+      "q": "¿Qué hace el Consejo Distrital con las solicitudes de registro de fórmulas a Diputaciones de mayoría relativa de partidos o coaliciones?",
+      "opts": [
+        "Las recibe y las remite al Consejo General para su resolución",
+        "Las recibe y las resuelve en definitiva en sesión del propio Consejo",
+        "Las remite al Tribunal Electoral del Estado para que las resuelva",
+        "Las recibe y las envía al INE para su verificación y registro"
+      ],
+      "correct": 0,
+      "expl": "El Consejo Distrital recibe esas solicitudes y las remite al Consejo General para su resolución.",
+      "fuente": "Guía IEES, 3.4 Atribuciones del Consejo Distrital"
+    },
+    {
+      "id": "IE1-04",
+      "simulacro": 1,
+      "tema": "2",
+      "norma": "N4",
+      "fmt": "A",
+      "q": "¿Cómo se nombra a quien ocupa la Secretaría del Consejo Distrital?",
+      "opts": [
+        "Lo nombra el propio Consejo, a propuesta de la Presidencia",
+        "Lo nombra la Presidencia, sin intervención del Consejo",
+        "Lo designa el Consejo General del INE",
+        "Lo eligen las representaciones de los partidos"
+      ],
+      "correct": 0,
+      "expl": "Es atribución del Consejo nombrar a quien ocupará la Secretaría, a propuesta de la Presidencia.",
+      "fuente": "Guía IEES, 3.4 Atribuciones del Consejo Distrital"
+    },
+    {
+      "id": "IE1-05",
+      "simulacro": 1,
+      "tema": "2",
+      "norma": "N4",
+      "fmt": "A",
+      "q": "En el procedimiento sancionador especial, los consejos distritales ejercen funciones de:",
+      "opts": [
+        "Recepción, tramitación y sustanciación",
+        "Resolución definitiva de las quejas presentadas",
+        "Imposición directa de sanciones a los partidos",
+        "Investigación penal de los hechos denunciados"
+      ],
+      "correct": 0,
+      "expl": "Los consejos ejercen recepción, tramitación y sustanciación en el procedimiento sancionador especial.",
+      "fuente": "Guía IEES, 3.4 Atribuciones del Consejo Distrital"
+    },
+    {
+      "id": "IE1-06",
+      "simulacro": 1,
+      "tema": "2",
+      "norma": "N4",
+      "fmt": "A",
+      "q": "Al concluir sus trabajos, la Presidencia del Consejo Distrital debe presentar un informe final de actividades:",
+      "opts": [
+        "A la Secretaría Ejecutiva del Instituto, previo conocimiento del Consejo",
+        "Al Consejo General del INE, sin necesidad de conocimiento del Consejo",
+        "Al Congreso del Estado, previo conocimiento del Consejo",
+        "Al Tribunal Electoral del Estado, al concluir los cómputos"
+      ],
+      "correct": 0,
+      "expl": "Es obligación de la Presidencia presentar el informe a la Secretaría Ejecutiva, previo conocimiento del Consejo.",
+      "fuente": "Guía IEES, 3.4 Presidencia del Consejo Distrital"
+    },
+    {
+      "id": "IE1-07",
+      "simulacro": 1,
+      "tema": "2",
+      "norma": "N4",
+      "fmt": "A",
+      "q": "Respecto de las pruebas y simulacros del PREP, las consejerías electorales distritales deben:",
+      "opts": [
+        "Participar en ellos, en atención a los lineamientos del INE",
+        "Coordinarlos en lugar del Área de Sistemas Informáticos",
+        "Aprobar sus resultados antes de la jornada",
+        "Abstenerse de participar para no afectar su imparcialidad"
+      ],
+      "correct": 0,
+      "expl": "Las consejerías participan en pruebas y simulacros del PREP conforme a los lineamientos del INE.",
+      "fuente": "Guía IEES, 3.4 Consejerías Electorales Distritales"
+    },
+    {
+      "id": "IE1-08",
+      "simulacro": 1,
+      "tema": "2",
+      "norma": "N4",
+      "fmt": "A",
+      "q": "Respecto de las candidaturas independientes a Presidencia Municipal, Sindicatura y Regidurías, el Consejo Municipal:",
+      "opts": [
+        "Recibe y resuelve las manifestaciones de intención y los registros",
+        "Solo las recibe y las remite al Consejo General para que las resuelva",
+        "Solo verifica el apoyo ciudadano y lo informa a la Junta Local del INE",
+        "No interviene, porque esos registros los resuelve el Consejo Distrital"
+      ],
+      "correct": 0,
+      "expl": "El Consejo Municipal recibe y resuelve tanto las manifestaciones de intención como los registros de candidaturas independientes municipales.",
+      "fuente": "Guía IEES, 3.5 Atribuciones del Consejo Municipal"
+    },
+    {
+      "id": "IE1-09",
+      "simulacro": 1,
+      "tema": "2",
+      "norma": "N4",
+      "fmt": "A",
+      "q": "Para que el Consejo pueda sesionar se requiere quórum, que consiste en la presencia de:",
+      "opts": [
+        "La mayoría de sus integrantes, entre los que debe estar la Presidencia",
+        "Todas las consejerías electorales, aunque falte la Presidencia",
+        "La mayoría de las representaciones de partidos",
+        "Las dos terceras partes de sus integrantes con voto"
+      ],
+      "correct": 0,
+      "expl": "El quórum es la mayoría de integrantes, incluida la Presidencia.",
+      "fuente": "Guía IEES, 4. Tipos de sesiones"
+    },
+    {
+      "id": "IE1-10",
+      "simulacro": 1,
+      "tema": "2",
+      "norma": "N3",
+      "fmt": "A",
+      "q": "El IEES es el órgano encargado de la preparación, desarrollo, vigilancia y calificación de los procesos electorales locales de:",
+      "opts": [
+        "Gubernatura, Diputaciones Locales y Ayuntamientos",
+        "Presidencia de la República, Senadurías y Diputaciones Federales",
+        "Diputaciones Federales, Diputaciones Locales y Ayuntamientos",
+        "Gubernatura y Ayuntamientos únicamente"
+      ],
+      "correct": 0,
+      "expl": "La sección 3.1 enumera Gubernatura, Diputaciones Locales y Ayuntamientos.",
+      "fuente": "Guía IEES, 3.1 IEES"
+    },
+    {
+      "id": "IE1-11",
+      "simulacro": 1,
+      "tema": "2",
+      "norma": "N3",
+      "fmt": "A",
+      "q": "Fuera de proceso electoral, ¿cómo se integra el IEES?",
+      "opts": [
+        "Con una Oficina Central y dos Oficinas Regionales",
+        "Con una Oficina Central y 24 Consejos Distritales permanentes",
+        "Con una Oficina Central y cuatro Oficinas Regionales",
+        "Únicamente con una Oficina Central"
+      ],
+      "correct": 0,
+      "expl": "Fuera de proceso hay una Oficina Central y dos Regionales; en proceso se instalan además los consejos temporales.",
+      "fuente": "Guía IEES, 3.1 IEES"
+    },
+    {
+      "id": "IE1-12",
+      "simulacro": 1,
+      "tema": "2",
+      "norma": "N3",
+      "fmt": "A",
+      "q": "El principio por el cual el IEES debe reconocer e interpretar los hechos con base en la realidad perceptible, por encima de puntos de vista unilaterales o subjetivos, es:",
+      "opts": [
+        "Objetividad",
+        "Imparcialidad",
+        "Certeza",
+        "Independencia"
+      ],
+      "correct": 0,
+      "expl": "La guía define así la objetividad.",
+      "fuente": "Guía IEES, 3.1 IEES – principios rectores"
+    },
+    {
+      "id": "IE1-13",
+      "simulacro": 1,
+      "tema": "2",
+      "norma": "N3",
+      "fmt": "A",
+      "q": "¿Con cuántas delegaciones y subdelegaciones cuenta el INE?",
+      "opts": [
+        "32 Juntas Locales Ejecutivas y 300 Juntas Distritales Ejecutivas",
+        "32 Juntas Locales Ejecutivas y 200 Juntas Distritales Ejecutivas",
+        "31 Juntas Locales Ejecutivas y 300 Juntas Distritales Ejecutivas",
+        "32 Juntas Locales Ejecutivas y 500 Juntas Distritales Ejecutivas"
+      ],
+      "correct": 0,
+      "expl": "El INE tiene una Junta Local por entidad (32) y una Junta Distrital por distrito uninominal (300).",
+      "fuente": "Guía IEES, 3.2 INE"
+    },
+    {
+      "id": "IE1-14",
+      "simulacro": 1,
+      "tema": "2",
+      "norma": "N3",
+      "fmt": "A",
+      "q": "En el Consejo General del INE, las consejeras y los consejeros del Poder Legislativo participan:",
+      "opts": [
+        "Solo con derecho a voz",
+        "Con derecho a voz y voto",
+        "Con voto solo en asuntos legislativos",
+        "Sin voz ni voto, como observadores"
+      ],
+      "correct": 0,
+      "expl": "Hay una consejería del Poder Legislativo por cada grupo parlamentario, solo con derecho a voz.",
+      "fuente": "Guía IEES, 3.2 INE"
+    },
+    {
+      "id": "IE1-15",
+      "simulacro": 1,
+      "tema": "2",
+      "norma": "N3",
+      "fmt": "A",
+      "q": "Los conteos rápidos y el PREP de las elecciones locales los realiza el IEES:",
+      "opts": [
+        "De conformidad con los lineamientos y reglas que emite el INE",
+        "Con reglas propias aprobadas por el Congreso del Estado",
+        "Solo cuando el INE delega expresamente la función",
+        "Con reglas que aprueba el Tribunal Electoral del Estado"
+      ],
+      "correct": 0,
+      "expl": "La tabla de atribuciones señala que ambos se realizan conforme a lineamientos y reglas del INE.",
+      "fuente": "Guía IEES, 3.3 Atribuciones"
+    },
+    {
+      "id": "IE1-16",
+      "simulacro": 1,
+      "tema": "2",
+      "norma": "N3",
+      "fmt": "A",
+      "q": "¿Qué requisito deben tener las y los servidores públicos del IEES en quienes se delegue la función de Oficialía Electoral?",
+      "opts": [
+        "Título de licenciatura en derecho",
+        "Cinco años de experiencia en materia electoral",
+        "Nombramiento como notario público",
+        "Haber sido consejero electoral en un proceso anterior"
+      ],
+      "correct": 0,
+      "expl": "La guía señala que la delegación procede siempre que tengan título de licenciatura en derecho.",
+      "fuente": "Guía IEES, 14. Oficialía Electoral"
+    },
+    {
+      "id": "IE1-17",
+      "simulacro": 1,
+      "tema": "1",
+      "norma": "N5",
+      "fmt": "A",
+      "q": "¿Qué significa que el 6 de junio de 2027 se celebren elecciones concurrentes en Sinaloa?",
+      "opts": [
+        "Que las elecciones locales y la federal se realizan en la misma fecha",
+        "Que se elige al mismo tiempo a los tres poderes del Estado de Sinaloa",
+        "Que se realizan dos jornadas electorales distintas en la misma semana",
+        "Que la elección federal la organiza el Instituto Electoral del Estado"
+      ],
+      "correct": 0,
+      "expl": "La guía define así las elecciones concurrentes.",
+      "fuente": "Guía IEES, 5. Cargos a renovarse en 2027"
+    },
+    {
+      "id": "IE1-18",
+      "simulacro": 1,
+      "tema": "1",
+      "norma": "N5",
+      "fmt": "A",
+      "q": "En la elección federal concurrente de 2027, ¿qué cargos se elegirán a nivel federal?",
+      "opts": [
+        "Las Diputaciones Federales",
+        "La Presidencia de la República y las Senadurías",
+        "Las Senadurías y las Diputaciones Federales",
+        "La Presidencia de la República"
+      ],
+      "correct": 0,
+      "expl": "A nivel federal solo se eligen Diputaciones Federales.",
+      "fuente": "Guía IEES, 5. Cargos a renovarse en 2027"
+    },
+    {
+      "id": "IE1-19",
+      "simulacro": 1,
+      "tema": "1",
+      "norma": "N5",
+      "fmt": "A",
+      "q": "¿Cuántas personas integrarán el Tribunal de Disciplina Judicial de Sinaloa electas por la ciudadanía?",
+      "opts": [
+        "Tres",
+        "Cinco",
+        "Siete",
+        "Nueve"
+      ],
+      "correct": 0,
+      "expl": "La guía señala que el Tribunal se integrará por tres personas electas por la ciudadanía.",
+      "fuente": "Guía IEES, 6. Elección del Poder Judicial 2028"
+    },
+    {
+      "id": "IE1-20",
+      "simulacro": 1,
+      "tema": "1",
+      "norma": "N5",
+      "fmt": "A",
+      "q": "¿Qué nuevas modalidades de votación se implementarán en el Proceso Electoral Local 2026-2027 de Sinaloa?",
+      "opts": [
+        "Voto anticipado, voto en el extranjero y voto de personas en prisión preventiva",
+        "Voto electrónico en urna, voto anticipado y voto en el extranjero",
+        "Voto por correo, voto en hospitales y voto de personas en prisión preventiva",
+        "Voto anticipado, voto electrónico en casilla y voto de personas sentenciadas"
+      ],
+      "correct": 0,
+      "expl": "La guía enumera esas tres modalidades.",
+      "fuente": "Guía IEES, 8. Nuevas modalidades de votación"
+    },
+    {
+      "id": "IE1-21",
+      "simulacro": 1,
+      "tema": "1",
+      "norma": "N5",
+      "fmt": "A",
+      "q": "La ciudadanía sinaloense residente en el extranjero podrá votar en el Proceso Electoral Local 2026-2027 para:",
+      "opts": [
+        "Únicamente en la elección de Gubernatura",
+        "En las elecciones de Gubernatura y Diputaciones Locales",
+        "En todas las elecciones locales del proceso",
+        "En las elecciones de Gubernatura y Ayuntamientos"
+      ],
+      "correct": 0,
+      "expl": "El artículo 4 de la LIPEES, citado en la guía, limita el voto desde el extranjero a la elección de Gubernatura.",
+      "fuente": "Guía IEES, 8. Voto en el extranjero"
+    },
+    {
+      "id": "IE1-22",
+      "simulacro": 1,
+      "tema": "3",
+      "norma": "N6",
+      "fmt": "A",
+      "q": "¿Quiénes realizan el conjunto de actos que conforman el proceso electoral local, según la guía?",
+      "opts": [
+        "El Congreso, las autoridades electorales, los partidos, las candidaturas independientes y la ciudadanía",
+        "Únicamente el IEES y el INE, en el ámbito de sus respectivas competencias legales",
+        "Las autoridades electorales y los partidos políticos, sin intervención de la ciudadanía",
+        "El IEES, el Tribunal Electoral del Estado y el Poder Ejecutivo del Estado de Sinaloa"
+      ],
+      "correct": 0,
+      "expl": "La guía define el proceso electoral como el conjunto de actos de todos esos actores para renovar los Poderes Legislativo, Ejecutivo y los Ayuntamientos.",
+      "fuente": "Guía IEES, 9. El proceso electoral"
+    },
+    {
+      "id": "IE1-23",
+      "simulacro": 1,
+      "tema": "3",
+      "norma": "N6",
+      "fmt": "A",
+      "q": "Para dar inicio formal al proceso electoral, el Consejo General del IEES celebra sesión:",
+      "opts": [
+        "Dentro de los cinco días posteriores a la convocatoria del Congreso",
+        "Dentro de los diez días posteriores a la convocatoria del Congreso",
+        "El mismo día en que el Congreso expide la convocatoria a elecciones",
+        "El primer día hábil de enero del año en que se celebra la elección"
+      ],
+      "correct": 0,
+      "expl": "La guía fija los cinco días posteriores a la expedición de la convocatoria.",
+      "fuente": "Guía IEES, 9. El proceso electoral"
+    },
+    {
+      "id": "IE1-24",
+      "simulacro": 1,
+      "tema": "3",
+      "norma": "N6",
+      "fmt": "A",
+      "q": "La etapa de resultados y declaraciones de validez de las elecciones inicia:",
+      "opts": [
+        "Con la remisión de los expedientes de casilla a los consejos",
+        "Con el cierre de la votación en todas las casillas de la entidad",
+        "Con la publicación de los primeros resultados del PREP en Internet",
+        "Con la sesión especial de cómputo del miércoles siguiente a la jornada"
+      ],
+      "correct": 0,
+      "expl": "La guía señala que inicia con la remisión de la documentación y expedientes a los consejos distritales y municipales.",
+      "fuente": "Guía IEES, 9.1 Etapas del proceso"
+    },
+    {
+      "id": "IE1-25",
+      "simulacro": 1,
+      "tema": "3",
+      "norma": "N6",
+      "fmt": "A",
+      "q": "¿Cuándo se instala una casilla contigua?",
+      "opts": [
+        "Cuando una sección tiene más de 750 electores",
+        "Cuando una sección tiene menos de 100 electores",
+        "Cuando el electorado no puede llegar a un mismo sitio por la geografía",
+        "Cuando hay electores fuera de su sección el día de la elección"
+      ],
+      "correct": 0,
+      "expl": "Las contiguas se instalan si la sección supera 750 electores; se reparten en orden alfabético y la primera es básica.",
+      "fuente": "Guía IEES, 9.2 La casilla y sus tipos"
+    },
+    {
+      "id": "IE1-26",
+      "simulacro": 1,
+      "tema": "3",
+      "norma": "N6",
+      "fmt": "A",
+      "q": "En la casilla básica de cada sección se recibe la votación de:",
+      "opts": [
+        "100 a 750 electores",
+        "50 a 500 electores",
+        "100 a 1,000 electores",
+        "750 a 3,000 electores"
+      ],
+      "correct": 0,
+      "expl": "La guía señala que la casilla básica recibe la votación de 100 a 750 electores.",
+      "fuente": "Guía IEES, 9.2 La casilla y sus tipos"
+    },
+    {
+      "id": "IE1-27",
+      "simulacro": 1,
+      "tema": "3",
+      "norma": "N8",
+      "fmt": "A",
+      "q": "¿Dónde debe entregarse el paquete electoral de la elección de Gubernatura y Diputaciones Locales?",
+      "opts": [
+        "En el Consejo Distrital Electoral Local que corresponda",
+        "En el Consejo Municipal Electoral del municipio respectivo",
+        "En la Junta Distrital Ejecutiva del INE que corresponda",
+        "En las oficinas centrales del IEES en la ciudad de Culiacán"
+      ],
+      "correct": 0,
+      "expl": "El de Gubernatura y Diputaciones va al Consejo Distrital; el de Presidencia Municipal, al Consejo Municipal.",
+      "fuente": "Guía IEES, 11. Después de la jornada"
+    },
+    {
+      "id": "IE1-28",
+      "simulacro": 1,
+      "tema": "3",
+      "norma": "N8",
+      "fmt": "A",
+      "q": "El acta circunstanciada de recepción de paquetes debe incluir invariablemente:",
+      "opts": [
+        "La hora de recepción y el estado en que se encontró cada paquete",
+        "Los resultados de cada casilla y el nombre de los votantes",
+        "La firma de todas las personas funcionarias de casilla",
+        "El número de boletas sobrantes de cada elección"
+      ],
+      "correct": 0,
+      "expl": "La guía señala que incluye invariablemente la hora de recepción y el estado de cada paquete.",
+      "fuente": "Guía IEES, 11. Después de la jornada"
+    },
+    {
+      "id": "IE1-29",
+      "simulacro": 1,
+      "tema": "3",
+      "norma": "N8",
+      "fmt": "A",
+      "q": "¿Cuándo se realiza la reunión previa para determinar los paquetes que serán objeto de recuento?",
+      "opts": [
+        "El martes anterior al día del cómputo",
+        "El lunes siguiente a la jornada electoral",
+        "El mismo miércoles, antes de iniciar el cómputo",
+        "El domingo de la jornada, al cerrar la bodega electoral"
+      ],
+      "correct": 0,
+      "expl": "Se celebra el martes anterior al cómputo y después una sesión extraordinaria para aprobar los acuerdos.",
+      "fuente": "Guía IEES, 11. Después de la jornada"
+    },
+    {
+      "id": "IE1-30",
+      "simulacro": 1,
+      "tema": "3",
+      "norma": "N8",
+      "fmt": "A",
+      "q": "¿A qué se destina la primera copia del acta de escrutinio y cómputo de la casilla?",
+      "opts": [
+        "Al Programa de Resultados Electorales Preliminares",
+        "A la representación del partido con más votos",
+        "Al expediente que se entrega al Tribunal Electoral",
+        "Al cartel de resultados que se coloca afuera de la casilla"
+      ],
+      "correct": 0,
+      "expl": "La guía señala que la primera copia se destina al PREP.",
+      "fuente": "Guía IEES, 11.1 PREP"
+    },
+    {
+      "id": "IE1-31",
+      "simulacro": 1,
+      "tema": "3",
+      "norma": "N8",
+      "fmt": "A",
+      "q": "¿Cuál de las siguientes es una causal para realizar un nuevo escrutinio y cómputo de la votación de una casilla?",
+      "opts": [
+        "Que los votos nulos superen la diferencia entre el primero y el segundo lugar",
+        "Que la casilla se haya instalado después de las 8:15 horas del día de la elección",
+        "Que la participación ciudadana en la casilla haya sido menor al cincuenta por ciento",
+        "Que lo solicite por escrito cualquier persona observadora electoral acreditada"
+      ],
+      "correct": 0,
+      "expl": "Entre las causales están el paquete alterado, actas que no coincidan, alteraciones evidentes, falta de acta, errores evidentes, nulos mayores a la diferencia y votos a un solo partido.",
+      "fuente": "Guía IEES, 12.1 Causales de recuento"
+    },
+    {
+      "id": "IE1-32",
+      "simulacro": 1,
+      "tema": "1",
+      "norma": "N2",
+      "fmt": "A",
+      "q": "Conforme a la guía, los partidos políticos son:",
+      "opts": [
+        "Entidades de interés público con personalidad jurídica y patrimonio propios",
+        "Organismos públicos autónomos encargados de organizar las elecciones locales",
+        "Asociaciones civiles de carácter privado que carecen de patrimonio propio",
+        "Órganos desconcentrados del Instituto Electoral del Estado de Sinaloa"
+      ],
+      "correct": 0,
+      "expl": "La guía los define como entidades de interés público con personalidad jurídica y patrimonio propios, con registro ante el INE o el IEES.",
+      "fuente": "Guía IEES, 2. Partidos políticos"
+    },
+    {
+      "id": "IE1-33",
+      "simulacro": 1,
+      "tema": "1",
+      "norma": "N2",
+      "fmt": "A",
+      "q": "Los partidos políticos con registro NACIONAL pueden participar:",
+      "opts": [
+        "En los procesos federales y también en los locales",
+        "Únicamente en los procesos electorales de carácter federal",
+        "Únicamente en las elecciones de Presidencia y de Senadurías",
+        "En los locales, solo si obtienen además un registro estatal"
+      ],
+      "correct": 0,
+      "expl": "La guía señala que los partidos nacionales participan en las elecciones federales y en los procesos locales.",
+      "fuente": "Guía IEES, 2. Partidos políticos"
+    },
+    {
+      "id": "IE1-34",
+      "simulacro": 1,
+      "tema": "1",
+      "norma": "N2",
+      "fmt": "A",
+      "q": "¿Ante qué autoridad se registra una candidatura independiente a una Diputación Local en Sinaloa?",
+      "opts": [
+        "Ante el Instituto Electoral del Estado de Sinaloa",
+        "Ante el Instituto Nacional Electoral",
+        "Ante el Tribunal Electoral del Estado de Sinaloa",
+        "Ante el Congreso del Estado de Sinaloa"
+      ],
+      "correct": 0,
+      "expl": "Las candidaturas independientes a cargos federales se registran ante el INE; las de Gubernatura, Diputaciones Locales y Ayuntamientos, ante el IEES.",
+      "fuente": "Guía IEES, 7. Candidaturas independientes"
+    },
+    {
+      "id": "IE1-35",
+      "simulacro": 1,
+      "tema": "1",
+      "norma": "N2",
+      "fmt": "A",
+      "q": "¿A partir de cuándo pueden las personas interesadas presentar su manifestación de intención de postularse como candidatura independiente?",
+      "opts": [
+        "A partir del día siguiente a la emisión de la convocatoria",
+        "A partir del día de inicio de las precampañas",
+        "Treinta días después de la emisión de la convocatoria",
+        "A partir del día siguiente a su registro como aspirantes"
+      ],
+      "correct": 0,
+      "expl": "En los actos previos al registro, la manifestación por escrito se presenta a partir del día siguiente a la emisión de la convocatoria.",
+      "fuente": "Guía IEES, 7. Candidaturas independientes"
+    },
+    {
+      "id": "IE1-36",
+      "simulacro": 1,
+      "tema": "3",
+      "norma": "N7",
+      "fmt": "A",
+      "q": "¿En cuántos momentos se divide la jornada electoral, según la guía?",
+      "opts": [
+        "En cinco momentos",
+        "En tres momentos",
+        "En cuatro momentos",
+        "En seis momentos"
+      ],
+      "correct": 0,
+      "expl": "Preparación e instalación; votación; escrutinio y cómputo; integración de expedientes y paquetes; y publicación de resultados y clausura.",
+      "fuente": "Guía IEES, 10. Jornada electoral"
+    },
+    {
+      "id": "IE1-37",
+      "simulacro": 1,
+      "tema": "3",
+      "norma": "N7",
+      "fmt": "A",
+      "q": "¿Quién es la máxima autoridad en la Mesa Directiva de Casilla y le corresponde mantener el orden?",
+      "opts": [
+        "La Presidenta o el Presidente de la casilla",
+        "La Presidencia del Consejo Distrital",
+        "El personal del INE asignado a la casilla",
+        "La representación del partido con más votos"
+      ],
+      "correct": 0,
+      "expl": "La Presidencia de casilla es la máxima autoridad y puede solicitar el auxilio de la fuerza pública.",
+      "fuente": "Guía IEES, 10. Jornada electoral"
+    },
+    {
+      "id": "IE1-38",
+      "simulacro": 1,
+      "tema": "3",
+      "norma": "N7",
+      "fmt": "A",
+      "q": "Durante la VOTACIÓN, las representaciones de partidos y candidaturas independientes pueden presentar:",
+      "opts": [
+        "Escritos de incidentes",
+        "Escritos de protesta",
+        "Recursos de revisión",
+        "Quejas por procedimiento sancionador"
+      ],
+      "correct": 0,
+      "expl": "Durante la votación se presentan escritos de incidentes; durante el escrutinio y cómputo, escritos de protesta.",
+      "fuente": "Guía IEES, 10. Jornada electoral"
+    },
+    {
+      "id": "IE1-39",
+      "simulacro": 1,
+      "tema": "3",
+      "norma": "N7",
+      "fmt": "A",
+      "q": "Durante la votación, ¿quiénes pueden ejercer su derecho al voto en la casilla?",
+      "opts": [
+        "Quienes presenten su credencial y aparezcan en la Lista Nominal o en la Adicional",
+        "Cualquier persona con credencial para votar, aunque no aparezca en ninguna lista",
+        "Solo quienes aparezcan en la Lista Nominal de la sección, sin ninguna excepción",
+        "Quienes presenten cualquier identificación oficial vigente con fotografía"
+      ],
+      "correct": 0,
+      "expl": "Pueden votar quienes presenten credencial y aparezcan en la Lista Nominal o en la Lista Adicional, sin discriminación.",
+      "fuente": "Guía IEES, 10. Jornada electoral"
+    },
+    {
+      "id": "IE1-40",
+      "simulacro": 1,
+      "tema": "4",
+      "norma": "N9",
+      "fmt": "A",
+      "q": "¿En qué año se reconoció el derecho al voto de las mujeres mexicanas, según la guía?",
+      "opts": [
+        "En 1953",
+        "En 1947",
+        "En 1917",
+        "En 1958"
+      ],
+      "correct": 0,
+      "expl": "La guía señala que se reconoció hasta 1953.",
+      "fuente": "Guía IEES, 15. Igualdad de género"
+    },
+    {
+      "id": "IE1-41",
+      "simulacro": 1,
+      "tema": "4",
+      "norma": "N9",
+      "fmt": "A",
+      "q": "La alternancia de género en las planillas y listas, en la que las personas se registran alternadamente según su sexo, corresponde a la paridad:",
+      "opts": [
+        "Vertical",
+        "Horizontal",
+        "Transversal",
+        "Proporcional"
+      ],
+      "correct": 0,
+      "expl": "La guía identifica la alternancia en listas y planillas como paridad vertical.",
+      "fuente": "Guía IEES, 15. Igualdad de género"
+    },
+    {
+      "id": "IE1-42",
+      "simulacro": 1,
+      "tema": "4",
+      "norma": "N9",
+      "fmt": "A",
+      "q": "¿En qué municipios deben los partidos o coaliciones postular al menos dos mujeres a la Presidencia Municipal?",
+      "opts": [
+        "Ahome, Guasave, Culiacán y Mazatlán",
+        "Culiacán, Mazatlán, Navolato y Elota",
+        "Ahome, Culiacán, Mazatlán y Escuinapa",
+        "Guasave, Culiacán, Mazatlán y Rosario"
+      ],
+      "correct": 0,
+      "expl": "Es la postulación paritaria en los municipios de mayor desarrollo económico, político y social.",
+      "fuente": "Guía IEES, 15. Igualdad de género"
+    },
+    {
+      "id": "IE1-43",
+      "simulacro": 1,
+      "tema": "4",
+      "norma": "N9",
+      "fmt": "A",
+      "q": "¿A través de qué procedimiento se sustancian las quejas por VPMRG ante el IEES?",
+      "opts": [
+        "Del Procedimiento Especial Sancionador, dentro y fuera de proceso electoral",
+        "Del Procedimiento Sancionador Ordinario, solo fuera de proceso",
+        "Del juicio para la protección de los derechos político-electorales",
+        "Del recurso de revisión ante el Consejo General"
+      ],
+      "correct": 0,
+      "expl": "La guía indica que se sustancian por el Procedimiento Especial Sancionador, dentro y fuera de proceso.",
+      "fuente": "Guía IEES, 16. VPMRG"
+    },
+    {
+      "id": "IE1-44",
+      "simulacro": 1,
+      "tema": "4",
+      "norma": "N10",
+      "fmt": "A",
+      "q": "¿Qué medio de impugnación pueden interponer los partidos o candidaturas independientes contra los actos o resoluciones de los órganos del Instituto?",
+      "opts": [
+        "El recurso de revisión",
+        "El recurso de reconsideración",
+        "El recurso de inconformidad",
+        "El juicio electoral federal"
+      ],
+      "correct": 0,
+      "expl": "El recurso de revisión procede contra actos o resoluciones de los distintos órganos del Instituto.",
+      "fuente": "Guía IEES, 18. Medios de impugnación"
+    },
+    {
+      "id": "IE1-45",
+      "simulacro": 1,
+      "tema": "4",
+      "norma": "N10",
+      "fmt": "A",
+      "q": "La autoridad que recibe un medio de impugnación contra sus propios actos debe hacerlo del conocimiento público mediante cédula fijada en estrados durante:",
+      "opts": [
+        "72 horas",
+        "48 horas",
+        "24 horas",
+        "5 días"
+      ],
+      "correct": 0,
+      "expl": "Además, debe dar aviso inmediato al TEESIN por la vía más expedita.",
+      "fuente": "Guía IEES, 18. Medios de impugnación"
+    },
+    {
+      "id": "IE1-46",
+      "simulacro": 1,
+      "tema": "4",
+      "norma": "N10",
+      "fmt": "A",
+      "q": "A nivel distrital o municipal, ¿qué denuncias conocen los consejos durante el proceso electoral?",
+      "opts": [
+        "Las de propaganda impresa o en bardas, no la de radio o televisión",
+        "Las de propaganda difundida en radio y televisión dentro del distrito",
+        "Las relativas a la fiscalización de los gastos de campaña de los partidos",
+        "Las relativas a la comisión de delitos electorales durante la jornada"
+      ],
+      "correct": 0,
+      "expl": "Conocen de propaganda impresa o en bardas y actos anticipados cuyo medio no sea radio o televisión, y de medidas cautelares.",
+      "fuente": "Guía IEES, 19. Procedimiento sancionador"
+    },
+    {
+      "id": "IE1-47",
+      "simulacro": 1,
+      "tema": "4",
+      "norma": "N10",
+      "fmt": "A",
+      "q": "Según la guía, los delitos electorales atentan contra las características del voto, que debe ser:",
+      "opts": [
+        "Universal, libre, directo, personal, secreto e intransferible",
+        "Universal, obligatorio, directo, público y transferible",
+        "Libre, secreto, delegable y personal",
+        "Universal, libre, indirecto y secreto"
+      ],
+      "correct": 0,
+      "expl": "La sección 20 enumera esas características.",
+      "fuente": "Guía IEES, 20. Delitos electorales"
+    },
+    {
+      "id": "IE1-48",
+      "simulacro": 1,
+      "tema": "1",
+      "norma": "N1",
+      "fmt": "A",
+      "q": "¿Cuál de las siguientes es una OBLIGACIÓN de la ciudadanía, según la guía?",
+      "opts": [
+        "Integrar las mesas directivas de casilla en los términos de la ley",
+        "Participar como observadora de los procesos electorales",
+        "Asociarse libremente para tomar parte en los asuntos políticos",
+        "Ejercer en toda clase de negocios el derecho de petición"
+      ],
+      "correct": 0,
+      "expl": "Integrar las mesas directivas de casilla es una obligación; las otras tres son derechos de la ciudadanía.",
+      "fuente": "Guía IEES, 1. Derechos y obligaciones"
+    },
+    {
+      "id": "IE1-49",
+      "simulacro": 1,
+      "tema": "1",
+      "norma": "N1",
+      "fmt": "A",
+      "q": "Según la guía, votar en las elecciones, las consultas populares y los procesos de revocación de mandato es:",
+      "opts": [
+        "Un derecho y también una obligación de la ciudadanía",
+        "Únicamente un derecho de la ciudadanía",
+        "Únicamente una obligación de la ciudadanía",
+        "Un derecho exclusivo de quienes tengan credencial vigente"
+      ],
+      "correct": 0,
+      "expl": "Aparece tanto en la lista de derechos (fr. I) como en la de obligaciones (fr. I).",
+      "fuente": "Guía IEES, 1. Derechos y obligaciones"
+    },
+    {
+      "id": "IE1-50",
+      "simulacro": 1,
+      "tema": "1",
+      "norma": "N1",
+      "fmt": "A",
+      "q": "¿Cuál de las siguientes opciones corresponde a un derecho de la ciudadanía señalado en la guía?",
+      "opts": [
+        "Poder ser nombrada para cualquier empleo o comisión del servicio público",
+        "Desempeñar los cargos concejiles del municipio en el que tenga su residencia",
+        "Integrar las mesas directivas de casilla en los términos que señale la ley",
+        "Desempeñar las funciones electorales y las de jurado cuando sea requerida"
+      ],
+      "correct": 0,
+      "expl": "Ser nombrado para empleos o comisiones del servicio público es la fracción VI de los derechos; las demás son obligaciones.",
+      "fuente": "Guía IEES, 1. Derechos y obligaciones"
+    },
+    {
+      "id": "IE2-01",
+      "simulacro": 2,
+      "tema": "2",
+      "norma": "N4",
+      "fmt": "A",
+      "q": "¿Cuántas consejerías electorales propietarias, además de la Presidencia, integran un Consejo Municipal Electoral del IEES?",
+      "opts": [
+        "Cuatro",
+        "Seis",
+        "Tres",
+        "Cinco"
+      ],
+      "correct": 0,
+      "expl": "El Consejo Municipal se integra con Presidencia y 4 consejerías propietarias con voz y voto.",
+      "fuente": "Guía IEES, 3.5 Consejos Municipales"
+    },
+    {
+      "id": "IE2-02",
+      "simulacro": 2,
+      "tema": "2",
+      "norma": "N4",
+      "fmt": "A",
+      "q": "En un Consejo Distrital del IEES, la Secretaria o el Secretario Distrital tiene derecho:",
+      "opts": [
+        "Solo a voz, en los asuntos de su competencia",
+        "A voz y voto en todos los asuntos",
+        "A voto solo en caso de empate",
+        "A voz y voto en los asuntos de su competencia"
+      ],
+      "correct": 0,
+      "expl": "La Secretaría Distrital tiene derecho solo a voz en los asuntos de su competencia.",
+      "fuente": "Guía IEES, 3.4 Consejos Distritales"
+    },
+    {
+      "id": "IE2-03",
+      "simulacro": 2,
+      "tema": "2",
+      "norma": "N4",
+      "fmt": "A",
+      "q": "¿Qué cómputos realiza el Consejo Distrital del IEES?",
+      "opts": [
+        "Gubernatura y Diputaciones de mayoría relativa y de representación proporcional",
+        "Diputaciones Federales y Diputaciones Locales de mayoría relativa del distrito",
+        "Presidencia Municipal, Sindicatura de Procuración y Regidurías del municipio",
+        "Únicamente el de Diputaciones Locales por el sistema de mayoría relativa"
+      ],
+      "correct": 0,
+      "expl": "El Consejo Distrital hace los cómputos de Gubernatura y Diputaciones (MR y RP).",
+      "fuente": "Guía IEES, 3.4 Atribuciones del Consejo Distrital"
+    },
+    {
+      "id": "IE2-04",
+      "simulacro": 2,
+      "tema": "2",
+      "norma": "N4",
+      "fmt": "A",
+      "q": "Los recursos que se interponen contra actos o resoluciones del Consejo Distrital deben ser:",
+      "opts": [
+        "Recibidos, sustanciados y remitidos al Tribunal Electoral",
+        "Resueltos en definitiva por el propio Consejo Distrital",
+        "Remitidos directamente al Consejo General del INE para su trámite",
+        "Turnados a la Fiscalía Especializada en Atención de Delitos Electorales"
+      ],
+      "correct": 0,
+      "expl": "El Consejo recibe, sustancia y remite los recursos al Tribunal Electoral.",
+      "fuente": "Guía IEES, 3.4 Atribuciones del Consejo Distrital"
+    },
+    {
+      "id": "IE2-05",
+      "simulacro": 2,
+      "tema": "2",
+      "norma": "N4",
+      "fmt": "A",
+      "q": "¿Quién funge como responsable de la bodega electoral y de sus operaciones de apertura y cierre en el Consejo Distrital?",
+      "opts": [
+        "La Presidencia del Consejo Distrital",
+        "La Secretaría del Consejo Distrital",
+        "Las consejerías electorales, de forma rotativa",
+        "El personal del INE asignado al distrito"
+      ],
+      "correct": 0,
+      "expl": "Es una de las atribuciones y obligaciones de la Presidencia del Consejo Distrital.",
+      "fuente": "Guía IEES, 3.4 Presidencia del Consejo Distrital"
+    },
+    {
+      "id": "IE2-06",
+      "simulacro": 2,
+      "tema": "2",
+      "norma": "N4",
+      "fmt": "A",
+      "q": "¿Hasta cuándo debe la Presidencia del Consejo Distrital custodiar la documentación de las elecciones locales?",
+      "opts": [
+        "Hasta que concluya el proceso electoral correspondiente",
+        "Hasta que concluya el cómputo distrital",
+        "Hasta la entrega de las constancias de mayoría",
+        "Hasta treinta días después de la jornada electoral"
+      ],
+      "correct": 0,
+      "expl": "La guía le asigna custodiar la documentación hasta que concluya el proceso electoral.",
+      "fuente": "Guía IEES, 3.4 Presidencia del Consejo Distrital"
+    },
+    {
+      "id": "IE2-07",
+      "simulacro": 2,
+      "tema": "2",
+      "norma": "N4",
+      "fmt": "A",
+      "q": "¿Qué hace el Consejo Municipal con las solicitudes de registro de planillas de Presidencia Municipal, Sindicatura y Regidurías de partidos?",
+      "opts": [
+        "Las recibe y las remite al Consejo General para su resolución",
+        "Las recibe y las resuelve en definitiva en sesión del propio Consejo",
+        "Las remite al Consejo Distrital que corresponda para su aprobación",
+        "Las envía al Congreso del Estado para su ratificación y publicación"
+      ],
+      "correct": 0,
+      "expl": "El Consejo Municipal recibe y remite esas solicitudes al Consejo General; en cambio, sí resuelve las de candidaturas independientes municipales.",
+      "fuente": "Guía IEES, 3.5 Atribuciones del Consejo Municipal"
+    },
+    {
+      "id": "IE2-08",
+      "simulacro": 2,
+      "tema": "2",
+      "norma": "N4",
+      "fmt": "A",
+      "q": "¿Con qué frecuencia mínima deben celebrarse las sesiones ordinarias de los consejos distritales y municipales?",
+      "opts": [
+        "Por lo menos dos veces al mes durante el proceso electoral",
+        "Por lo menos una vez al mes, desde la instalación del consejo",
+        "Por lo menos una vez por semana durante el periodo de campañas",
+        "Solo cuando lo considere necesario la Presidencia del consejo"
+      ],
+      "correct": 0,
+      "expl": "Las ordinarias se celebran por lo menos dos veces al mes durante el proceso electoral.",
+      "fuente": "Guía IEES, 4. Tipos de sesiones"
+    },
+    {
+      "id": "IE2-09",
+      "simulacro": 2,
+      "tema": "2",
+      "norma": "N4",
+      "fmt": "A",
+      "q": "¿Cuál es el tiempo límite de duración de las sesiones del Consejo y cuánto puede prolongarse?",
+      "opts": [
+        "Ocho horas, prorrogables por tres horas más con el acuerdo de la mayoría con voto",
+        "Seis horas, prorrogables por dos horas más con el acuerdo de la mayoría",
+        "Ocho horas, sin posibilidad de prórroga",
+        "Diez horas, prorrogables por tres horas más por decisión de la Presidencia"
+      ],
+      "correct": 0,
+      "expl": "El límite es de ocho horas, salvo sesión permanente; la mayoría con voto puede prolongarla, sin debate, por tres horas más.",
+      "fuente": "Guía IEES, 4. Tipos de sesiones"
+    },
+    {
+      "id": "IE2-10",
+      "simulacro": 2,
+      "tema": "2",
+      "norma": "N3",
+      "fmt": "A",
+      "q": "¿Cómo se integra el Consejo General del IEES?",
+      "opts": [
+        "Una Presidencia y seis consejerías con voz y voto, una Secretaría Ejecutiva con voz y representaciones con voz",
+        "Una Presidencia y diez consejerías con voz y voto, una Secretaría Ejecutiva y representaciones con voz",
+        "Una Presidencia y cuatro consejerías con voz y voto, una Secretaría Ejecutiva y representaciones con voz y voto",
+        "Siete consejerías con voz y voto, una Secretaría Ejecutiva con voz y voto y representaciones con voz"
+      ],
+      "correct": 0,
+      "expl": "El Consejo General del IEES lo integran la Presidencia y 6 consejerías con voz y voto, la Secretaría Ejecutiva con voz pero sin voto, y una representación por partido y por candidatura independiente con voz.",
+      "fuente": "Guía IEES, 3.1 IEES"
+    },
+    {
+      "id": "IE2-11",
+      "simulacro": 2,
+      "tema": "2",
+      "norma": "N3",
+      "fmt": "A",
+      "q": "Durante el proceso electoral, ¿cuántos consejos instala temporalmente el IEES?",
+      "opts": [
+        "24 Consejos Distritales y 14 Consejos Municipales Electorales",
+        "24 Consejos Distritales y 20 Consejos Municipales Electorales",
+        "20 Consejos Distritales y 14 Consejos Municipales Electorales",
+        "40 Consejos Distritales y 18 Consejos Municipales Electorales"
+      ],
+      "correct": 0,
+      "expl": "La guía señala 24 distritales y 14 municipales; además, en proceso todos los días y horas son hábiles.",
+      "fuente": "Guía IEES, 3.1 IEES"
+    },
+    {
+      "id": "IE2-12",
+      "simulacro": 2,
+      "tema": "2",
+      "norma": "N3",
+      "fmt": "A",
+      "q": "Además de los seis principios rectores tradicionales, la guía incluye un séptimo principio del IEES. ¿Cuál es?",
+      "opts": [
+        "Paridad de género",
+        "Eficiencia",
+        "Profesionalismo",
+        "Transparencia"
+      ],
+      "correct": 0,
+      "expl": "Los principios son certeza, imparcialidad, independencia, legalidad, máxima publicidad, objetividad y paridad de género.",
+      "fuente": "Guía IEES, 3.1 IEES – principios rectores"
+    },
+    {
+      "id": "IE2-13",
+      "simulacro": 2,
+      "tema": "2",
+      "norma": "N3",
+      "fmt": "A",
+      "q": "¿Cómo se integran los Consejos Locales y Distritales del INE?",
+      "opts": [
+        "Una Presidencia y seis consejerías con voz y voto, una Secretaría y representaciones con voz",
+        "Una Presidencia y cuatro consejerías con voz y voto, una Secretaría y representaciones con voz",
+        "Una Presidencia y diez consejerías con voz y voto, una Secretaría y representaciones con voz",
+        "Seis consejerías con voz y voto, sin Presidencia, y representaciones con voz y voto"
+      ],
+      "correct": 0,
+      "expl": "Son órganos temporales que funcionan en proceso electoral, con Presidencia y seis consejerías con voz y voto.",
+      "fuente": "Guía IEES, 3.2 INE"
+    },
+    {
+      "id": "IE2-14",
+      "simulacro": 2,
+      "tema": "2",
+      "norma": "N3",
+      "fmt": "A",
+      "q": "¿Cuál de las siguientes atribuciones corresponde al IEES y no al INE?",
+      "opts": [
+        "Desarrollar y ejecutar programas de educación cívica en el estado",
+        "La geografía electoral y la distritación",
+        "La ubicación de casillas",
+        "La fiscalización de los ingresos y egresos de los partidos"
+      ],
+      "correct": 0,
+      "expl": "La educación cívica estatal está entre las atribuciones del IEES; las otras tres son del INE.",
+      "fuente": "Guía IEES, 3.3 Atribuciones"
+    },
+    {
+      "id": "IE2-15",
+      "simulacro": 2,
+      "tema": "2",
+      "norma": "N3",
+      "fmt": "A",
+      "q": "La administración de los tiempos del Estado en radio y televisión para fines electorales corresponde:",
+      "opts": [
+        "Al Instituto Nacional Electoral",
+        "Al Instituto Electoral del Estado de Sinaloa",
+        "A los consejos distritales del IEES",
+        "A cada partido político en proporción a sus votos"
+      ],
+      "correct": 0,
+      "expl": "Está entre las atribuciones del INE en la tabla de la sección 3.3.",
+      "fuente": "Guía IEES, 3.3 Atribuciones"
+    },
+    {
+      "id": "IE2-16",
+      "simulacro": 2,
+      "tema": "2",
+      "norma": "N3",
+      "fmt": "A",
+      "q": "La función de Oficialía Electoral se ejerce:",
+      "opts": [
+        "Exclusivamente sobre actos o hechos de naturaleza electoral",
+        "Respecto de cualquier acto o hecho que solicite la ciudadanía",
+        "Respecto de actos electorales y de actos notariales en general",
+        "Únicamente durante el día de la jornada electoral y los cómputos"
+      ],
+      "correct": 0,
+      "expl": "La guía precisa que se ejerce exclusivamente sobre actos o hechos de naturaleza electoral.",
+      "fuente": "Guía IEES, 14. Oficialía Electoral"
+    },
+    {
+      "id": "IE2-17",
+      "simulacro": 2,
+      "tema": "1",
+      "norma": "N5",
+      "fmt": "A",
+      "q": "¿Cómo se integran las 40 Diputaciones Locales de Sinaloa que se elegirán en 2027?",
+      "opts": [
+        "24 de mayoría relativa y 16 de representación proporcional",
+        "20 de mayoría relativa y 20 de representación proporcional",
+        "24 de mayoría relativa y 14 de representación proporcional",
+        "30 de mayoría relativa y 10 de representación proporcional"
+      ],
+      "correct": 0,
+      "expl": "La guía señala 40 Diputaciones: 24 MR y 16 RP.",
+      "fuente": "Guía IEES, 5. Cargos a renovarse en 2027"
+    },
+    {
+      "id": "IE2-18",
+      "simulacro": 2,
+      "tema": "1",
+      "norma": "N5",
+      "fmt": "A",
+      "q": "¿Cuántas Presidencias Municipales y Sindicaturas de Procuración se elegirán en Sinaloa en 2027?",
+      "opts": [
+        "20 Presidencias Municipales y 20 Sindicaturas de Procuración",
+        "18 Presidencias Municipales y 18 Sindicaturas de Procuración",
+        "20 Presidencias Municipales y 40 Sindicaturas de Procuración",
+        "24 Presidencias Municipales y 20 Sindicaturas de Procuración"
+      ],
+      "correct": 0,
+      "expl": "La guía señala 20 de cada una.",
+      "fuente": "Guía IEES, 5. Cargos a renovarse en 2027"
+    },
+    {
+      "id": "IE2-19",
+      "simulacro": 2,
+      "tema": "1",
+      "norma": "N5",
+      "fmt": "A",
+      "q": "¿Cuál de los siguientes cargos NO está entre los sujetos a elección en la elección judicial local de 2028?",
+      "opts": [
+        "Magistraturas del Tribunal Electoral del Estado",
+        "Magistraturas del Supremo Tribunal de Justicia del Estado",
+        "Magistraturas del Tribunal de Disciplina Judicial",
+        "Juezas y Jueces de Primera Instancia"
+      ],
+      "correct": 0,
+      "expl": "Los cargos sujetos a elección son las magistraturas del Supremo Tribunal y del Tribunal de Disciplina, y las personas juzgadoras de Primera Instancia.",
+      "fuente": "Guía IEES, 6. Elección del Poder Judicial 2028"
+    },
+    {
+      "id": "IE2-20",
+      "simulacro": 2,
+      "tema": "1",
+      "norma": "N5",
+      "fmt": "A",
+      "q": "¿Cómo se emite el voto anticipado en el Proceso Electoral Concurrente 2026-2027?",
+      "opts": [
+        "Presencialmente en el domicilio, con boletas impresas",
+        "Por Internet, desde el domicilio de la persona electora",
+        "Por correo postal, enviado unos días antes de la jornada",
+        "En casillas especiales que se instalan en los hospitales"
+      ],
+      "correct": 0,
+      "expl": "El modelo aprobado contempla la votación presencial a domicilio con boletas impresas.",
+      "fuente": "Guía IEES, 8. Voto anticipado"
+    },
+    {
+      "id": "IE2-21",
+      "simulacro": 2,
+      "tema": "1",
+      "norma": "N5",
+      "fmt": "A",
+      "q": "¿Mediante qué vías puede ejercerse el voto desde el extranjero?",
+      "opts": [
+        "Postal, electrónica por Internet y presencial en sedes habilitadas",
+        "Únicamente por correo postal certificado, desde el país de residencia",
+        "Postal y presencial en los consulados, sin la vía electrónica por Internet",
+        "Únicamente por vía electrónica a través de Internet, con registro previo"
+      ],
+      "correct": 0,
+      "expl": "La guía enumera esas tres vías.",
+      "fuente": "Guía IEES, 8. Voto en el extranjero"
+    },
+    {
+      "id": "IE2-22",
+      "simulacro": 2,
+      "tema": "3",
+      "norma": "N6",
+      "fmt": "A",
+      "q": "¿Con qué acto inicia el Proceso Electoral Local en Sinaloa?",
+      "opts": [
+        "Con la convocatoria del Congreso del Estado, en la primera quincena de diciembre",
+        "Con la instalación de los consejos distritales en la primera quincena de enero",
+        "Con la convocatoria del IEES, expedida en la primera quincena de septiembre",
+        "Con el registro de las candidaturas ante el Consejo General, en el mes de marzo"
+      ],
+      "correct": 0,
+      "expl": "Inicia con la convocatoria del Congreso del Estado, dentro de la primera quincena de diciembre del año previo a la elección.",
+      "fuente": "Guía IEES, 9. El proceso electoral"
+    },
+    {
+      "id": "IE2-23",
+      "simulacro": 2,
+      "tema": "3",
+      "norma": "N6",
+      "fmt": "A",
+      "q": "¿Cuáles son las etapas del Proceso Electoral Local en Sinaloa?",
+      "opts": [
+        "Preparación; jornada; resultados y validez; y cómputo final de Gubernatura",
+        "Convocatoria; precampañas; campañas electorales; y jornada electoral",
+        "Preparación; jornada; cómputos distritales; y toma de protesta de electos",
+        "Registro de candidaturas; campañas; jornada; y calificación por el Congreso"
+      ],
+      "correct": 0,
+      "expl": "La sección 9.1 enumera esas cuatro etapas.",
+      "fuente": "Guía IEES, 9.1 Etapas del proceso"
+    },
+    {
+      "id": "IE2-24",
+      "simulacro": 2,
+      "tema": "3",
+      "norma": "N6",
+      "fmt": "A",
+      "q": "La etapa de cómputo final de la elección de Gubernatura concluye cuando:",
+      "opts": [
+        "El TEESIN entrega el dictamen con el cómputo final y la validez",
+        "El Consejo General del IEES concluye el cómputo estatal de la elección",
+        "Los veinticuatro consejos distritales concluyen sus cómputos de Gubernatura",
+        "El Congreso del Estado emite el bando solemne de Gobernador electo"
+      ],
+      "correct": 0,
+      "expl": "Inicia al resolverse el último medio de impugnación y concluye cuando el TEESIN entrega el dictamen.",
+      "fuente": "Guía IEES, 9.1 Etapas del proceso"
+    },
+    {
+      "id": "IE2-25",
+      "simulacro": 2,
+      "tema": "3",
+      "norma": "N6",
+      "fmt": "A",
+      "q": "La casilla que se instala cuando las condiciones geográficas, de infraestructura o socioculturales impiden que todo el electorado llegue a un mismo sitio es la:",
+      "opts": [
+        "Extraordinaria",
+        "Especial",
+        "Contigua",
+        "Básica"
+      ],
+      "correct": 0,
+      "expl": "Así define la guía la casilla extraordinaria.",
+      "fuente": "Guía IEES, 9.2 La casilla y sus tipos"
+    },
+    {
+      "id": "IE2-26",
+      "simulacro": 2,
+      "tema": "3",
+      "norma": "N6",
+      "fmt": "A",
+      "q": "¿Cuántas personas integran la mesa directiva de una casilla única?",
+      "opts": [
+        "Nueve: una Presidencia, dos Secretarías, tres Escrutadurías y tres suplentes generales",
+        "Siete: una Presidencia, una Secretaría, dos Escrutadurías y tres suplentes generales",
+        "Nueve: una Presidencia, una Secretaría, cuatro Escrutadurías y tres suplentes generales",
+        "Seis: una Presidencia, dos Secretarías, dos Escrutadurías y un suplente general"
+      ],
+      "correct": 0,
+      "expl": "La casilla única se integra por 9 personas: 1 presidencia, 2 secretarías, 3 escrutadurías y 3 suplentes generales.",
+      "fuente": "Guía IEES, 9.3 Casilla única"
+    },
+    {
+      "id": "IE2-27",
+      "simulacro": 2,
+      "tema": "3",
+      "norma": "N8",
+      "fmt": "A",
+      "q": "¿Dónde debe entregarse el paquete electoral de la elección de Presidencia Municipal?",
+      "opts": [
+        "En las oficinas del Consejo Municipal Electoral respectivo",
+        "En las oficinas del Consejo Distrital Electoral Local",
+        "En el Ayuntamiento del municipio",
+        "En la Junta Local Ejecutiva del INE"
+      ],
+      "correct": 0,
+      "expl": "La guía lo indica expresamente.",
+      "fuente": "Guía IEES, 11. Después de la jornada"
+    },
+    {
+      "id": "IE2-28",
+      "simulacro": 2,
+      "tema": "3",
+      "norma": "N8",
+      "fmt": "A",
+      "q": "Una vez extendido el recibo, ¿quién desprende de inmediato el sobre adherido al paquete electoral?",
+      "opts": [
+        "La Presidenta o el Presidente del Consejo",
+        "La Secretaría del Consejo",
+        "La persona funcionaria de casilla que lo entrega",
+        "La representación del partido que lo solicite"
+      ],
+      "correct": 0,
+      "expl": "El paquete se entrega a la Presidencia, que desprende el sobre; la Secretaría cuida que los resultados se anoten en las formas.",
+      "fuente": "Guía IEES, 11. Después de la jornada"
+    },
+    {
+      "id": "IE2-29",
+      "simulacro": 2,
+      "tema": "3",
+      "norma": "N8",
+      "fmt": "A",
+      "q": "Concluida la reunión de trabajo previa al cómputo, los acuerdos se aprueban en:",
+      "opts": [
+        "Una sesión extraordinaria",
+        "Una sesión ordinaria",
+        "Una sesión especial de cómputo",
+        "Una reunión con el Consejo General"
+      ],
+      "correct": 0,
+      "expl": "La guía señala que se lleva a cabo una sesión extraordinaria para aprobarlos.",
+      "fuente": "Guía IEES, 11. Después de la jornada"
+    },
+    {
+      "id": "IE2-30",
+      "simulacro": 2,
+      "tema": "3",
+      "norma": "N8",
+      "fmt": "A",
+      "q": "¿Cuándo inician las sesiones especiales de cómputo de los consejos distritales y municipales?",
+      "opts": [
+        "A partir de las ocho horas del miércoles siguiente a la jornada electoral",
+        "A partir de las ocho horas del martes siguiente a la jornada electoral",
+        "Al día siguiente de la jornada electoral",
+        "A partir de las ocho horas del domingo siguiente a la jornada"
+      ],
+      "correct": 0,
+      "expl": "La guía fija el miércoles siguiente a las ocho horas; los cómputos se realizan ininterrumpidamente.",
+      "fuente": "Guía IEES, 12. Sesiones de cómputo"
+    },
+    {
+      "id": "IE2-31",
+      "simulacro": 2,
+      "tema": "3",
+      "norma": "N8",
+      "fmt": "A",
+      "q": "También es causal de recuento de la votación de una casilla que:",
+      "opts": [
+        "Todos los votos depositados sean a favor de un mismo partido o candidatura independiente",
+        "La diferencia entre el primero y el segundo lugar sea mayor al cinco por ciento",
+        "La casilla se haya instalado en un lugar distinto al aprobado",
+        "Algún representante de partido no haya firmado el acta"
+      ],
+      "correct": 0,
+      "expl": "La guía enlista esa causal de nuevo escrutinio y cómputo.",
+      "fuente": "Guía IEES, 12.1 Causales de recuento"
+    },
+    {
+      "id": "IE2-32",
+      "simulacro": 2,
+      "tema": "1",
+      "norma": "N2",
+      "fmt": "A",
+      "q": "¿Cuál de los siguientes es uno de los fines principales de los partidos políticos?",
+      "opts": [
+        "Fomentar los principios de equidad y paridad de género",
+        "Organizar las elecciones de sus propias autoridades municipales",
+        "Fiscalizar los recursos de las candidaturas independientes",
+        "Designar a las personas consejeras de los consejos distritales"
+      ],
+      "correct": 0,
+      "expl": "Sus fines son promover la participación democrática, fomentar la equidad y paridad de género, contribuir a integrar los órganos de representación y hacer posible el acceso al poder público.",
+      "fuente": "Guía IEES, 2. Partidos políticos"
+    },
+    {
+      "id": "IE2-33",
+      "simulacro": 2,
+      "tema": "1",
+      "norma": "N2",
+      "fmt": "A",
+      "q": "¿Qué es una candidata o candidato independiente?",
+      "opts": [
+        "Quien contiende por un cargo de elección sin la mediación de un partido",
+        "Quien es postulado por una coalición integrada solo por partidos locales",
+        "Quien renunció a su partido político durante la campaña electoral",
+        "Quien es postulado por un partido político que solo tiene registro estatal"
+      ],
+      "correct": 0,
+      "expl": "Así la define la sección 7 de la guía.",
+      "fuente": "Guía IEES, 7. Candidaturas independientes"
+    },
+    {
+      "id": "IE2-34",
+      "simulacro": 2,
+      "tema": "1",
+      "norma": "N2",
+      "fmt": "A",
+      "q": "Ordene las etapas del proceso de selección de candidaturas independientes. ¿Cuál es la secuencia correcta?",
+      "opts": [
+        "Convocatoria, actos previos al registro, obtención del apoyo ciudadano y registro",
+        "Actos previos al registro, convocatoria, registro y obtención del apoyo ciudadano",
+        "Convocatoria, obtención del apoyo ciudadano, actos previos al registro y registro",
+        "Obtención del apoyo ciudadano, convocatoria, actos previos al registro y registro"
+      ],
+      "correct": 0,
+      "expl": "La guía enumera: 1º convocatoria, 2º actos previos al registro, 3º obtención de apoyo ciudadano y 4º registro de candidatura.",
+      "fuente": "Guía IEES, 7. Candidaturas independientes"
+    },
+    {
+      "id": "IE2-35",
+      "simulacro": 2,
+      "tema": "1",
+      "norma": "N2",
+      "fmt": "A",
+      "q": "¿Cuándo pueden las personas aspirantes empezar a recabar el apoyo ciudadano y mediante qué actos?",
+      "opts": [
+        "Desde el día siguiente a ser aspirantes, con reuniones, asambleas y marchas",
+        "Desde la emisión de la convocatoria, solo con propaganda en radio y televisión",
+        "Desde su registro como candidatas, mediante los actos propios de campaña",
+        "Desde el inicio de las campañas, únicamente mediante visitas domiciliarias"
+      ],
+      "correct": 0,
+      "expl": "La etapa 3º señala que a partir del día siguiente de obtener la calidad de aspirante pueden realizar reuniones públicas, asambleas y marchas.",
+      "fuente": "Guía IEES, 7. Candidaturas independientes"
+    },
+    {
+      "id": "IE2-36",
+      "simulacro": 2,
+      "tema": "3",
+      "norma": "N7",
+      "fmt": "A",
+      "q": "¿A qué hora debe iniciar la preparación e instalación de la casilla?",
+      "opts": [
+        "A las 7:30 horas",
+        "A las 7:00 horas",
+        "A las 8:00 horas",
+        "A las 8:15 horas"
+      ],
+      "correct": 0,
+      "expl": "La preparación e instalación inicia a las 7:30; la votación, a las 8:00.",
+      "fuente": "Guía IEES, 10. Jornada electoral"
+    },
+    {
+      "id": "IE2-37",
+      "simulacro": 2,
+      "tema": "3",
+      "norma": "N7",
+      "fmt": "A",
+      "q": "¿A qué hora cierra la votación y cuándo puede cerrarse antes?",
+      "opts": [
+        "A las 6:00 p.m.; antes, si ya votó toda la lista nominal",
+        "A las 5:00 p.m.; antes, si ya votó la mitad de la lista nominal",
+        "A las 6:00 p.m.; antes, si en ese momento no hay personas formadas",
+        "A las 8:00 p.m.; antes, si lo autoriza la Presidencia del Consejo Distrital"
+      ],
+      "correct": 0,
+      "expl": "El cierre es a las 6:00 p.m.; puede ser antes si votó toda la lista nominal, o después si hay personas formadas que llegaron a las 6:00 o antes.",
+      "fuente": "Guía IEES, 10. Jornada electoral"
+    },
+    {
+      "id": "IE2-38",
+      "simulacro": 2,
+      "tema": "3",
+      "norma": "N7",
+      "fmt": "A",
+      "q": "Durante el ESCRUTINIO Y CÓMPUTO, las representaciones de partidos y candidaturas independientes pueden presentar:",
+      "opts": [
+        "Escritos de protesta",
+        "Escritos de incidentes",
+        "Recursos de inconformidad",
+        "Solicitudes de recuento"
+      ],
+      "correct": 0,
+      "expl": "En esa fase se presentan escritos de protesta, que deben admitirse, registrarse y resguardarse.",
+      "fuente": "Guía IEES, 10. Jornada electoral"
+    },
+    {
+      "id": "IE2-39",
+      "simulacro": 2,
+      "tema": "3",
+      "norma": "N7",
+      "fmt": "A",
+      "q": "Para publicar los resultados y clausurar la casilla, las y los funcionarios:",
+      "opts": [
+        "Colocan afuera el cartel de resultados y sellan los paquetes con cinta",
+        "Envían los resultados por mensaje de texto al Consejo Distrital del IEES",
+        "Entregan las boletas a las representaciones de partido para su resguardo",
+        "Esperan al personal del IEES para que sea este quien selle los paquetes"
+      ],
+      "correct": 0,
+      "expl": "Se coloca el cartel en lugar visible, se registra la hora de clausura, se firma la constancia y se sellan los paquetes con cinta adhesiva.",
+      "fuente": "Guía IEES, 10. Jornada electoral"
+    },
+    {
+      "id": "IE2-40",
+      "simulacro": 2,
+      "tema": "4",
+      "norma": "N9",
+      "fmt": "A",
+      "q": "Con 20 ayuntamientos en Sinaloa, ¿cómo deben postular los partidos las Presidencias Municipales conforme a la paridad horizontal?",
+      "opts": [
+        "10 mujeres y 10 hombres",
+        "12 mujeres y 8 hombres",
+        "Al menos 8 mujeres",
+        "Libremente, siempre que encabecen mujeres en los municipios grandes"
+      ],
+      "correct": 0,
+      "expl": "La paridad horizontal exige postular 10 mujeres y 10 hombres; en los 24 distritos de MR, 12 mujeres.",
+      "fuente": "Guía IEES, 15. Igualdad de género"
+    },
+    {
+      "id": "IE2-41",
+      "simulacro": 2,
+      "tema": "4",
+      "norma": "N9",
+      "fmt": "A",
+      "q": "Según los lineamientos del IEES citados en la guía, ¿qué excepción se permite en la integración de fórmulas por personas del mismo género?",
+      "opts": [
+        "Que el propietario sea hombre y la suplencia sea mujer, pero no a la inversa",
+        "Que la propietaria sea mujer y la suplencia sea hombre, pero no a la inversa",
+        "Que cualquier fórmula sea mixta, si lo aprueba el partido",
+        "Que las fórmulas de regidurías sean mixtas en municipios pequeños"
+      ],
+      "correct": 0,
+      "expl": "Se permite propietario hombre con suplente mujer; nunca propietaria mujer con suplente hombre.",
+      "fuente": "Guía IEES, 15. Igualdad de género"
+    },
+    {
+      "id": "IE2-42",
+      "simulacro": 2,
+      "tema": "4",
+      "norma": "N9",
+      "fmt": "A",
+      "q": "¿Para qué sirven los bloques de competitividad?",
+      "opts": [
+        "Para que la postulación de mujeres no se concentre donde el partido no gana",
+        "Para asignar el financiamiento público a cada partido según su votación",
+        "Para determinar el orden en que aparecen los partidos en las boletas",
+        "Para repartir entre los partidos los tiempos de radio y televisión"
+      ],
+      "correct": 0,
+      "expl": "La guía los describe así en la sección de igualdad de género.",
+      "fuente": "Guía IEES, 15. Igualdad de género"
+    },
+    {
+      "id": "IE2-43",
+      "simulacro": 2,
+      "tema": "4",
+      "norma": "N9",
+      "fmt": "A",
+      "q": "Cuando la VPMRG configura un delito, ¿qué autoridad es competente para atenderlo en Sinaloa?",
+      "opts": [
+        "La Fiscalía Especializada en Atención de Delitos Electorales del Estado",
+        "El Tribunal Electoral del Estado de Sinaloa, mediante el juicio ciudadano",
+        "La Secretaría Ejecutiva del IEES, mediante el procedimiento especial",
+        "La Comisión Estatal de los Derechos Humanos, mediante una recomendación"
+      ],
+      "correct": 0,
+      "expl": "La guía señala a la Fiscalía General del Estado, por conducto de esa Fiscalía Especializada.",
+      "fuente": "Guía IEES, 16. VPMRG"
+    },
+    {
+      "id": "IE2-44",
+      "simulacro": 2,
+      "tema": "4",
+      "norma": "N10",
+      "fmt": "A",
+      "q": "¿Qué medio de impugnación procede en la etapa de resultados para hacer valer la nulidad de la votación de una o varias casillas?",
+      "opts": [
+        "El recurso de inconformidad",
+        "El recurso de revisión",
+        "El recurso de reconsideración",
+        "El juicio para la protección de los derechos político-electorales"
+      ],
+      "correct": 0,
+      "expl": "El recurso de inconformidad procede para causas de nulidad, nulidad de elecciones, resultados de cómputos y declaraciones de validez.",
+      "fuente": "Guía IEES, 18. Medios de impugnación"
+    },
+    {
+      "id": "IE2-45",
+      "simulacro": 2,
+      "tema": "4",
+      "norma": "N10",
+      "fmt": "A",
+      "q": "¿Cuál de las siguientes conductas se conoce mediante el procedimiento sancionador ESPECIAL?",
+      "opts": [
+        "Los actos anticipados de precampaña o campaña",
+        "Cualquier infracción que no sea materia de otro procedimiento",
+        "La negativa de registro de un partido político local",
+        "La nulidad de la votación recibida en una casilla"
+      ],
+      "correct": 0,
+      "expl": "El PES conoce de violaciones a la imparcialidad en recursos públicos, propaganda, actos anticipados y VPMRG.",
+      "fuente": "Guía IEES, 19. Procedimiento sancionador"
+    },
+    {
+      "id": "IE2-46",
+      "simulacro": 2,
+      "tema": "4",
+      "norma": "N10",
+      "fmt": "A",
+      "q": "Si en una queja por propaganda presentada ante un consejo distrital se denuncian actos de VPMRG, el consejo debe:",
+      "opts": [
+        "Remitirla sin más trámite a la Secretaría Ejecutiva",
+        "Sustanciarla y resolverla en su siguiente sesión ordinaria",
+        "Turnarla directamente a la Fiscalía Especializada del Estado",
+        "Desecharla de plano por no ser de su competencia territorial"
+      ],
+      "correct": 0,
+      "expl": "La guía ordena remitirla sin más trámite a la Secretaría Ejecutiva para que la sustancie.",
+      "fuente": "Guía IEES, 19. Procedimiento sancionador"
+    },
+    {
+      "id": "IE2-47",
+      "simulacro": 2,
+      "tema": "4",
+      "norma": "N10",
+      "fmt": "A",
+      "q": "¿Quiénes pueden cometer delitos electorales, según la guía?",
+      "opts": [
+        "Cualquier persona, sea o no servidora pública",
+        "Solo las personas funcionarias electorales en el ejercicio de su cargo",
+        "Solo las personas candidatas, precandidatas y los partidos que las postulan",
+        "Solo las personas servidoras públicas de los tres órdenes de gobierno"
+      ],
+      "correct": 0,
+      "expl": "La guía incluye a cualquier persona y enumera funcionarios electorales y partidistas, candidaturas, servidores públicos, organizadores de campañas y ministros de culto.",
+      "fuente": "Guía IEES, 20. Delitos electorales"
+    },
+    {
+      "id": "IE2-48",
+      "simulacro": 2,
+      "tema": "1",
+      "norma": "N1",
+      "fmt": "A",
+      "q": "Conforme a la guía, los cargos de elección popular de la Federación o de las entidades federativas que la ciudadanía tiene obligación de desempeñar:",
+      "opts": [
+        "En ningún caso serán gratuitos",
+        "Serán honoríficos durante el primer año",
+        "Serán gratuitos cuando sean concejiles",
+        "Serán remunerados solo si los aprueba el Congreso"
+      ],
+      "correct": 0,
+      "expl": "La obligación II señala que esos cargos en ningún caso serán gratuitos.",
+      "fuente": "Guía IEES, 1. Derechos y obligaciones"
+    },
+    {
+      "id": "IE2-49",
+      "simulacro": 2,
+      "tema": "1",
+      "norma": "N1",
+      "fmt": "A",
+      "q": "¿Cómo puede la ciudadanía solicitar el registro de una candidatura ante la autoridad electoral?",
+      "opts": [
+        "Por medio de los partidos o de manera independiente",
+        "Únicamente por medio de un partido político con registro nacional",
+        "Únicamente por medio de una coalición registrada ante el IEES",
+        "Mediante la firma de respaldo de al menos cien electores de su sección"
+      ],
+      "correct": 0,
+      "expl": "La fracción III reconoce el registro por partidos o de manera independiente, con los requisitos, condiciones y términos de la ley.",
+      "fuente": "Guía IEES, 1. Derechos y obligaciones"
+    },
+    {
+      "id": "IE2-50",
+      "simulacro": 2,
+      "tema": "1",
+      "norma": "N1",
+      "fmt": "A",
+      "q": "Respecto de la iniciativa de leyes, la guía señala que la ciudadanía tiene derecho a:",
+      "opts": [
+        "Iniciar leyes en los términos de la Constitución y la Ley del Congreso",
+        "Aprobar leyes de manera directa mediante una consulta popular obligatoria",
+        "Vetar las leyes aprobadas por el Congreso del Estado dentro de treinta días",
+        "Iniciar leyes, pero únicamente en materia electoral y de participación"
+      ],
+      "correct": 0,
+      "expl": "La fracción VII reconoce el derecho de iniciar leyes; el INE tiene las facultades que en esa materia le otorgue la ley.",
+      "fuente": "Guía IEES, 1. Derechos y obligaciones"
+    },
+    {
+      "id": "IE3-01",
+      "simulacro": 3,
+      "tema": "2",
+      "norma": "N4",
+      "fmt": "A",
+      "q": "Los Consejos Distritales y Municipales del IEES son:",
+      "opts": [
+        "Orgánicamente dependientes del IEES, pero independientes en sus decisiones",
+        "Orgánica y funcionalmente independientes del Instituto Electoral del Estado",
+        "Dependientes del IEES tanto en su organización como en sus decisiones",
+        "Órganos permanentes del INE que funcionan en cada distrito electoral"
+      ],
+      "correct": 0,
+      "expl": "La guía los define como orgánicamente dependientes del IEES pero independientes en sus decisiones.",
+      "fuente": "Guía IEES, 3.4 y 3.5 Consejos"
+    },
+    {
+      "id": "IE3-02",
+      "simulacro": 3,
+      "tema": "2",
+      "norma": "N4",
+      "fmt": "A",
+      "q": "¿Quiénes designan a las consejerías electorales de los consejos distritales y municipales?",
+      "opts": [
+        "El Consejo General del IEES",
+        "El Consejo General del INE",
+        "El Congreso del Estado de Sinaloa",
+        "La Presidencia de cada consejo distrital"
+      ],
+      "correct": 0,
+      "expl": "La guía señala que son designadas por el Consejo General del IEES.",
+      "fuente": "Guía IEES, 3.4 y 3.5 Consejos"
+    },
+    {
+      "id": "IE3-03",
+      "simulacro": 3,
+      "tema": "2",
+      "norma": "N4",
+      "fmt": "A",
+      "q": "¿Qué elección califica y declara válida el Consejo Distrital, expidiendo la Constancia de Mayoría a la fórmula ganadora?",
+      "opts": [
+        "La de Diputaciones por el sistema de mayoría relativa",
+        "La de Gubernatura del Estado",
+        "La de Diputaciones por representación proporcional",
+        "La de Presidencia Municipal y Sindicatura"
+      ],
+      "correct": 0,
+      "expl": "El Consejo Distrital califica y declara la validez de la elección de Diputaciones de mayoría relativa.",
+      "fuente": "Guía IEES, 3.4 Atribuciones del Consejo Distrital"
+    },
+    {
+      "id": "IE3-04",
+      "simulacro": 3,
+      "tema": "2",
+      "norma": "N4",
+      "fmt": "A",
+      "q": "Respecto de las candidaturas independientes a Diputaciones de mayoría relativa, el Consejo Distrital:",
+      "opts": [
+        "Recibe manifestaciones, acredita aspirantes y resuelve los registros",
+        "Solo recibe las solicitudes de registro y las remite a la Junta Local del INE",
+        "Únicamente verifica que las firmas de apoyo ciudadano sean auténticas",
+        "Emite la convocatoria y fija los topes de gasto para obtener el apoyo"
+      ],
+      "correct": 0,
+      "expl": "La guía le atribuye recibir manifestaciones, acreditar aspirantes y recibir y resolver los registros de fórmulas independientes de Diputaciones MR.",
+      "fuente": "Guía IEES, 3.4 Atribuciones del Consejo Distrital"
+    },
+    {
+      "id": "IE3-05",
+      "simulacro": 3,
+      "tema": "2",
+      "norma": "N4",
+      "fmt": "A",
+      "q": "Cuando la Presidencia de un Consejo Distrital recibe una queja por violencia política en razón de género, debe:",
+      "opts": [
+        "Remitirla a la Secretaría Ejecutiva del Instituto",
+        "Resolverla en la siguiente sesión del Consejo",
+        "Remitirla directamente al Tribunal Electoral del Estado",
+        "Turnarla al partido político al que pertenezca la persona denunciada"
+      ],
+      "correct": 0,
+      "expl": "La guía señala que la Presidencia remite a la Secretaría Ejecutiva las quejas por violencia política en razón de género.",
+      "fuente": "Guía IEES, 3.4 Presidencia del Consejo Distrital"
+    },
+    {
+      "id": "IE3-06",
+      "simulacro": 3,
+      "tema": "2",
+      "norma": "N4",
+      "fmt": "A",
+      "q": "¿Cuál de las siguientes es una atribución de las consejerías electorales distritales?",
+      "opts": [
+        "Integrar los Grupos de Trabajo para el recuento parcial o total de votos",
+        "Fungir como responsables de la bodega electoral",
+        "Nombrar a la Secretaría del Consejo Distrital",
+        "Presentar el informe final de actividades a la Secretaría Ejecutiva"
+      ],
+      "correct": 0,
+      "expl": "Integrar los Grupos de Trabajo es atribución de las consejerías; las otras corresponden a la Presidencia o al pleno.",
+      "fuente": "Guía IEES, 3.4 Consejerías Electorales Distritales"
+    },
+    {
+      "id": "IE3-07",
+      "simulacro": 3,
+      "tema": "2",
+      "norma": "N4",
+      "fmt": "A",
+      "q": "Además del cómputo municipal y la declaración de validez, ¿qué asigna el Consejo Municipal en los casos que prevé la LIPEES?",
+      "opts": [
+        "Las Regidurías de representación proporcional",
+        "Las Diputaciones de representación proporcional",
+        "Las Sindicaturas de representación proporcional",
+        "Las Presidencias Municipales de minoría"
+      ],
+      "correct": 0,
+      "expl": "Al Consejo Municipal le corresponde la asignación de Regidurías de representación proporcional.",
+      "fuente": "Guía IEES, 3.5 Atribuciones del Consejo Municipal"
+    },
+    {
+      "id": "IE3-08",
+      "simulacro": 3,
+      "tema": "2",
+      "norma": "N4",
+      "fmt": "A",
+      "q": "Las sesiones extraordinarias del Consejo pueden convocarse:",
+      "opts": [
+        "Por la Presidencia, o a petición de la mayoría de consejerías o representaciones",
+        "Solo por acuerdo del Consejo General del IEES, a solicitud de la Presidencia",
+        "Solo a petición de la totalidad de las representaciones de partidos acreditadas",
+        "Por cualquier integrante del Consejo que lo solicite por escrito, en lo individual"
+      ],
+      "correct": 0,
+      "expl": "Las convoca la Presidencia cuando lo estime necesario o a petición de la mayoría de consejerías o representantes, conjunta o indistintamente.",
+      "fuente": "Guía IEES, 4. Tipos de sesiones"
+    },
+    {
+      "id": "IE3-09",
+      "simulacro": 3,
+      "tema": "2",
+      "norma": "N4",
+      "fmt": "A",
+      "q": "Las sesiones que expresamente se indican en la Ley Electoral se denominan:",
+      "opts": [
+        "Especiales",
+        "Ordinarias",
+        "Extraordinarias",
+        "Permanentes"
+      ],
+      "correct": 0,
+      "expl": "La guía clasifica las sesiones en ordinarias, extraordinarias y especiales; estas últimas son las que indica expresamente la ley.",
+      "fuente": "Guía IEES, 4. Tipos de sesiones"
+    },
+    {
+      "id": "IE3-10",
+      "simulacro": 3,
+      "tema": "2",
+      "norma": "N3",
+      "fmt": "A",
+      "q": "En las sesiones del Consejo General del IEES, la Secretaria o el Secretario Ejecutivo participa:",
+      "opts": [
+        "Con voz, pero sin voto",
+        "Con voz y voto",
+        "Sin voz ni voto",
+        "Con voto solo en caso de empate"
+      ],
+      "correct": 0,
+      "expl": "La guía señala que la Secretaría Ejecutiva tiene voz, pero sin voto.",
+      "fuente": "Guía IEES, 3.1 IEES"
+    },
+    {
+      "id": "IE3-11",
+      "simulacro": 3,
+      "tema": "2",
+      "norma": "N3",
+      "fmt": "A",
+      "q": "¿Qué principio rector implica que las reglas de la contienda y los resultados del IEES sean completamente verificables, claros, fidedignos y confiables?",
+      "opts": [
+        "Certeza",
+        "Objetividad",
+        "Legalidad",
+        "Máxima publicidad"
+      ],
+      "correct": 0,
+      "expl": "Esa es la definición de certeza que da la guía.",
+      "fuente": "Guía IEES, 3.1 IEES – principios rectores"
+    },
+    {
+      "id": "IE3-12",
+      "simulacro": 3,
+      "tema": "2",
+      "norma": "N3",
+      "fmt": "A",
+      "q": "Según la guía, ¿qué implica el principio de máxima publicidad para el IEES?",
+      "opts": [
+        "Que su información es pública y solo por excepción puede reservarse",
+        "Que debe difundir todos sus acuerdos en radio y televisión",
+        "Que todas sus sesiones deben celebrarse en plazas públicas",
+        "Que su información solo puede consultarse durante el proceso electoral"
+      ],
+      "correct": 0,
+      "expl": "Así define la guía la máxima publicidad.",
+      "fuente": "Guía IEES, 3.1 IEES – principios rectores"
+    },
+    {
+      "id": "IE3-13",
+      "simulacro": 3,
+      "tema": "2",
+      "norma": "N3",
+      "fmt": "A",
+      "q": "¿Cuántas consejerías electorales, además de la Presidencia, integran el Consejo General del INE?",
+      "opts": [
+        "Diez",
+        "Seis",
+        "Ocho",
+        "Doce"
+      ],
+      "correct": 0,
+      "expl": "El Consejo General del INE se integra por la Presidencia y 10 consejerías con voz y voto, además de consejerías del Poder Legislativo, Secretaría Ejecutiva y representaciones con voz.",
+      "fuente": "Guía IEES, 3.2 INE"
+    },
+    {
+      "id": "IE3-14",
+      "simulacro": 3,
+      "tema": "2",
+      "norma": "N3",
+      "fmt": "A",
+      "q": "¿Cuál de las siguientes atribuciones corresponde al INE?",
+      "opts": [
+        "Las acreditaciones para la observación electoral",
+        "La entrega de prerrogativas a partidos nacionales y estatales en Sinaloa",
+        "La impresión de documentos y materiales para la elección local",
+        "El escrutinio y cómputo total de las elecciones locales"
+      ],
+      "correct": 0,
+      "expl": "Las acreditaciones de observación son del INE; las otras tres son atribuciones del IEES.",
+      "fuente": "Guía IEES, 3.3 Atribuciones"
+    },
+    {
+      "id": "IE3-15",
+      "simulacro": 3,
+      "tema": "2",
+      "norma": "N3",
+      "fmt": "A",
+      "q": "¿Quién ejerce la función de Oficialía Electoral en el IEES?",
+      "opts": [
+        "La Secretaría Ejecutiva, por sí o por conducto de quienes designe",
+        "La Presidencia del Consejo General, de manera exclusiva e indelegable",
+        "Los notarios públicos que designe para ello el Consejo General",
+        "La Unidad Técnica de lo Contencioso, de manera exclusiva e indelegable"
+      ],
+      "correct": 0,
+      "expl": "La función corresponde a la Secretaría Ejecutiva, que puede ejercerla por sí, por las Secretarías de los consejos o por servidores en quienes la delegue.",
+      "fuente": "Guía IEES, 14. Oficialía Electoral"
+    },
+    {
+      "id": "IE3-16",
+      "simulacro": 3,
+      "tema": "2",
+      "norma": "N3",
+      "fmt": "A",
+      "q": "Durante la jornada electoral, quienes ejercen la Oficialía Electoral pueden solicitar la colaboración de:",
+      "opts": [
+        "Los notarios públicos",
+        "Los jueces de primera instancia",
+        "Los agentes del Ministerio Público",
+        "Las personas observadoras electorales"
+      ],
+      "correct": 0,
+      "expl": "Pueden solicitar la colaboración de los notarios públicos para auxiliar la función electoral en la jornada.",
+      "fuente": "Guía IEES, 14. Oficialía Electoral"
+    },
+    {
+      "id": "IE3-17",
+      "simulacro": 3,
+      "tema": "1",
+      "norma": "N5",
+      "fmt": "A",
+      "q": "¿Cuántas Regidurías se elegirán en Sinaloa en 2027 y cómo se integran?",
+      "opts": [
+        "165: 90 de mayoría relativa y 75 de representación proporcional",
+        "165: 75 de mayoría relativa y 90 de representación proporcional",
+        "160: 90 de mayoría relativa y 70 de representación proporcional",
+        "120: 80 de mayoría relativa y 40 de representación proporcional"
+      ],
+      "correct": 0,
+      "expl": "La guía señala 165 regidurías: 90 MR y 75 RP.",
+      "fuente": "Guía IEES, 5. Cargos a renovarse en 2027"
+    },
+    {
+      "id": "IE3-18",
+      "simulacro": 3,
+      "tema": "1",
+      "norma": "N5",
+      "fmt": "A",
+      "q": "¿En qué año se implementará por primera vez en Sinaloa la elección del Poder Judicial del Estado?",
+      "opts": [
+        "En 2028",
+        "En 2027",
+        "En 2026",
+        "En 2030"
+      ],
+      "correct": 0,
+      "expl": "El Decreto número 509 determinó que se realizaría en la elección estatal de 2028, en lugar de 2027.",
+      "fuente": "Guía IEES, 6. Elección del Poder Judicial 2028"
+    },
+    {
+      "id": "IE3-19",
+      "simulacro": 3,
+      "tema": "1",
+      "norma": "N5",
+      "fmt": "A",
+      "q": "¿Qué decreto modificó los artículos transitorios para trasladar a 2028 la elección judicial estatal?",
+      "opts": [
+        "El Decreto número 509",
+        "El Decreto número 86",
+        "El Decreto número 283",
+        "El Decreto número 141"
+      ],
+      "correct": 0,
+      "expl": "El Decreto 86 aprobó la reforma original y el Decreto 509 reformó los transitorios para pasar la elección a 2028.",
+      "fuente": "Guía IEES, 6. Elección del Poder Judicial 2028"
+    },
+    {
+      "id": "IE3-20",
+      "simulacro": 3,
+      "tema": "1",
+      "norma": "N5",
+      "fmt": "A",
+      "q": "¿Quiénes pueden participar en el voto anticipado?",
+      "opts": [
+        "Personas con discapacidad que no pueden acudir a la casilla, entre otras",
+        "Cualquier persona que no pueda votar el día de la jornada por motivos de trabajo",
+        "Las personas sinaloenses que residen fuera del territorio nacional",
+        "Las y los funcionarios de casilla que no votarán en su propia sección"
+      ],
+      "correct": 0,
+      "expl": "Pueden participar la ciudadanía que tramitó su credencial al amparo del art. 141 LGIPE, personas con discapacidad y personas cuidadoras primarias.",
+      "fuente": "Guía IEES, 8. Voto anticipado"
+    },
+    {
+      "id": "IE3-21",
+      "simulacro": 3,
+      "tema": "1",
+      "norma": "N5",
+      "fmt": "A",
+      "q": "¿En qué principio se sustenta el voto de las personas en prisión preventiva?",
+      "opts": [
+        "En el principio de presunción de inocencia",
+        "En el principio de reinserción social",
+        "En el principio de máxima publicidad",
+        "En el principio de territorialidad del voto"
+      ],
+      "correct": 0,
+      "expl": "Es para personas sin sentencia, bajo el principio de presunción de inocencia, con base en los arts. 1º y 35 constitucionales y sentencias de la Sala Superior.",
+      "fuente": "Guía IEES, 8. Voto de personas en prisión preventiva"
+    },
+    {
+      "id": "IE3-22",
+      "simulacro": 3,
+      "tema": "3",
+      "norma": "N6",
+      "fmt": "A",
+      "q": "¿Con qué acto concluye el Proceso Electoral Local?",
+      "opts": [
+        "Con la declaratoria que emite el TEESIN",
+        "Con la entrega de la constancia de mayoría de la Gubernatura",
+        "Con el último de los cómputos municipales que realice el IEES",
+        "Con la toma de protesta de las autoridades electas en el Estado"
+      ],
+      "correct": 0,
+      "expl": "La guía señala que concluye con la declaratoria del TEESIN.",
+      "fuente": "Guía IEES, 9. El proceso electoral"
+    },
+    {
+      "id": "IE3-23",
+      "simulacro": 3,
+      "tema": "3",
+      "norma": "N6",
+      "fmt": "A",
+      "q": "¿Cuál de las siguientes actividades forma parte de la etapa de preparación de la elección?",
+      "opts": [
+        "La instalación de los consejos distritales y municipales",
+        "El cómputo distrital de la elección de Gubernatura",
+        "La declaración de validez de la elección de Diputaciones",
+        "El escrutinio y cómputo de los votos en cada casilla"
+      ],
+      "correct": 0,
+      "expl": "En la preparación el IEES integra e instala los consejos, registra candidaturas, produce la documentación y organiza debates, entre otras tareas.",
+      "fuente": "Guía IEES, 9.1 Etapas del proceso"
+    },
+    {
+      "id": "IE3-24",
+      "simulacro": 3,
+      "tema": "3",
+      "norma": "N6",
+      "fmt": "A",
+      "q": "Según la guía, ¿cuántos electores debe tener registrados, como mínimo, una sección electoral?",
+      "opts": [
+        "Por lo menos 100 electores",
+        "Por lo menos 50 electores",
+        "Por lo menos 750 electores",
+        "Por lo menos 300 electores"
+      ],
+      "correct": 0,
+      "expl": "La sección es la parte territorial más pequeña para fines electorales y tiene registrados por lo menos 100 electores.",
+      "fuente": "Guía IEES, 9.2 La casilla y sus tipos"
+    },
+    {
+      "id": "IE3-25",
+      "simulacro": 3,
+      "tema": "3",
+      "norma": "N6",
+      "fmt": "A",
+      "q": "¿Para qué se instala una casilla especial?",
+      "opts": [
+        "Para que vote quien el día de la elección está fuera de su sección",
+        "Para recibir el voto de las personas con alguna discapacidad",
+        "Para recibir el voto de secciones con más de 750 electores",
+        "Para recibir el voto anticipado de las personas cuidadoras primarias"
+      ],
+      "correct": 0,
+      "expl": "La casilla especial recibe a quienes están fuera de la sección que les corresponde por su domicilio.",
+      "fuente": "Guía IEES, 9.2 La casilla y sus tipos"
+    },
+    {
+      "id": "IE3-26",
+      "simulacro": 3,
+      "tema": "3",
+      "norma": "N6",
+      "fmt": "A",
+      "q": "Tanto en elecciones locales como federales, la integración y ubicación de todas las casillas es responsabilidad de:",
+      "opts": [
+        "El Instituto Nacional Electoral",
+        "El Instituto Electoral del Estado de Sinaloa",
+        "Los consejos distritales del IEES",
+        "Los consejos municipales del IEES"
+      ],
+      "correct": 0,
+      "expl": "La guía precisa que es responsabilidad del INE.",
+      "fuente": "Guía IEES, 9.3 Casilla única"
+    },
+    {
+      "id": "IE3-27",
+      "simulacro": 3,
+      "tema": "3",
+      "norma": "N8",
+      "fmt": "A",
+      "q": "¿En qué orden se reciben los paquetes electorales en los consejos y a qué se da prioridad?",
+      "opts": [
+        "En el orden de llegada, dando prioridad a la recepción del sobre del PREP",
+        "Por número de sección, dando prioridad a las casillas urbanas",
+        "En el orden de llegada, dando prioridad a las casillas especiales",
+        "Por tipo de elección, dando prioridad a la de Gubernatura"
+      ],
+      "correct": 0,
+      "expl": "Se reciben en orden de llegada, priorizando el sobre del PREP.",
+      "fuente": "Guía IEES, 11. Después de la jornada"
+    },
+    {
+      "id": "IE3-28",
+      "simulacro": 3,
+      "tema": "3",
+      "norma": "N8",
+      "fmt": "A",
+      "q": "Al término de la recepción de todos los paquetes, la bodega electoral:",
+      "opts": [
+        "Se sella en presencia de las representaciones",
+        "Se sella en presencia de un notario público, sin representaciones",
+        "Permanece abierta hasta el día del cómputo para consultas",
+        "Se entrega en custodia al personal de la Junta Distrital del INE"
+      ],
+      "correct": 0,
+      "expl": "La guía indica que se sella en presencia de representantes de partidos y candidaturas independientes.",
+      "fuente": "Guía IEES, 11. Después de la jornada"
+    },
+    {
+      "id": "IE3-29",
+      "simulacro": 3,
+      "tema": "3",
+      "norma": "N8",
+      "fmt": "A",
+      "q": "¿Qué efectos legales tienen los resultados del PREP?",
+      "opts": [
+        "Ninguno; solo informan la tendencia preliminar",
+        "Son definitivos si no se presenta ningún recurso",
+        "Sirven de base para la declaración de validez",
+        "Sustituyen al cómputo cuando coinciden con el acta"
+      ],
+      "correct": 0,
+      "expl": "El PREP no tiene efectos legales; los resultados definitivos surgen de la sesión especial de cómputo.",
+      "fuente": "Guía IEES, 11.1 PREP"
+    },
+    {
+      "id": "IE3-30",
+      "simulacro": 3,
+      "tema": "3",
+      "norma": "N8",
+      "fmt": "A",
+      "q": "¿Qué cómputos realiza el Consejo Municipal en la sesión especial de cómputo?",
+      "opts": [
+        "Presidencia Municipal, Sindicatura de Procuración y Regidurías",
+        "Gubernatura y Diputaciones Locales del municipio respectivo",
+        "Diputaciones Locales de mayoría relativa y Regidurías de RP",
+        "Únicamente el de Presidencia Municipal y Sindicatura de Procuración"
+      ],
+      "correct": 0,
+      "expl": "El Consejo Distrital computa Gubernatura y Diputaciones; el Municipal, Presidencia, Sindicatura y Regidurías.",
+      "fuente": "Guía IEES, 12. Sesiones de cómputo"
+    },
+    {
+      "id": "IE3-31",
+      "simulacro": 3,
+      "tema": "3",
+      "norma": "N8",
+      "fmt": "A",
+      "q": "El Tribunal Electoral publica la declaratoria de conclusión del proceso electoral cuando, entre otros supuestos:",
+      "opts": [
+        "Certifica que no se presentó ningún medio de impugnación",
+        "El Consejo General del IEES entrega la última constancia de mayoría",
+        "Se cumplen treinta días naturales desde la jornada electoral",
+        "Las autoridades electas rinden protesta ante el Congreso del Estado"
+      ],
+      "correct": 0,
+      "expl": "La sección 13 enumera tres supuestos: que no hubo impugnaciones, que resolvió la última impugnación sin que se combata, o que el TEPJF resolvió la última.",
+      "fuente": "Guía IEES, 13. Conclusión del proceso"
+    },
+    {
+      "id": "IE3-32",
+      "simulacro": 3,
+      "tema": "1",
+      "norma": "N2",
+      "fmt": "A",
+      "q": "Un partido político con registro LOCAL en Sinaloa puede participar en la elección de:",
+      "opts": [
+        "Gubernatura, Diputaciones Locales y Ayuntamientos",
+        "Presidencia de la República, Senadurías y Diputaciones Federales",
+        "Diputaciones Federales y Ayuntamientos únicamente",
+        "Gubernatura, Diputaciones Locales y Diputaciones Federales"
+      ],
+      "correct": 0,
+      "expl": "Los partidos locales solo participan en procesos de carácter estatal y municipal.",
+      "fuente": "Guía IEES, 2. Partidos políticos"
+    },
+    {
+      "id": "IE3-33",
+      "simulacro": 3,
+      "tema": "1",
+      "norma": "N2",
+      "fmt": "A",
+      "q": "Entre los requisitos para obtener el registro de una candidatura independiente se encuentra:",
+      "opts": [
+        "Obtener el porcentaje de firmas de apoyo de la lista nominal",
+        "Contar con el respaldo formal de al menos un partido político local",
+        "Haber sido militante de un partido político en los últimos tres años",
+        "Presentar un plan de reciclaje de la propaganda electoral que utilizará"
+      ],
+      "correct": 0,
+      "expl": "La guía menciona la obtención del porcentaje de firmas del apoyo ciudadano de las personas inscritas en la lista nominal.",
+      "fuente": "Guía IEES, 7. Candidaturas independientes"
+    },
+    {
+      "id": "IE3-34",
+      "simulacro": 3,
+      "tema": "1",
+      "norma": "N2",
+      "fmt": "A",
+      "q": "¿Quién emite la convocatoria para candidaturas independientes a Gubernatura, Diputaciones Locales y Ayuntamientos en Sinaloa?",
+      "opts": [
+        "El Consejo General del IEES",
+        "El Consejo General del INE",
+        "El Congreso del Estado de Sinaloa",
+        "El Tribunal Electoral del Estado de Sinaloa"
+      ],
+      "correct": 0,
+      "expl": "El Consejo General del INE convoca para Diputaciones Federales y el del IEES para los cargos locales.",
+      "fuente": "Guía IEES, 7. Candidaturas independientes"
+    },
+    {
+      "id": "IE3-35",
+      "simulacro": 3,
+      "tema": "1",
+      "norma": "N2",
+      "fmt": "A",
+      "q": "Una vez que obtiene la Constancia de Registro, ¿desde cuándo puede la candidatura independiente iniciar su campaña?",
+      "opts": [
+        "A partir del día siguiente",
+        "A partir de los tres días siguientes",
+        "Al día siguiente de la sesión de cómputo",
+        "Una vez que termine el periodo de apoyo ciudadano de todos los aspirantes"
+      ],
+      "correct": 0,
+      "expl": "La etapa 4º indica que, otorgada la constancia, a partir del día siguiente puede iniciar su campaña.",
+      "fuente": "Guía IEES, 7. Candidaturas independientes"
+    },
+    {
+      "id": "IE3-36",
+      "simulacro": 3,
+      "tema": "3",
+      "norma": "N7",
+      "fmt": "A",
+      "q": "Durante la preparación e instalación de la casilla, ¿qué se hace con las boletas?",
+      "opts": [
+        "Se cuentan sin desprenderlas de los blocs",
+        "Se desprenden de los blocs y se rubrican una por una",
+        "Se cuentan y se cancelan las que sobren",
+        "Se entregan a las representaciones para que las sellen"
+      ],
+      "correct": 0,
+      "expl": "La guía indica que en esa etapa se cuentan las boletas sin desprenderlas de los blocs.",
+      "fuente": "Guía IEES, 10. Jornada electoral"
+    },
+    {
+      "id": "IE3-37",
+      "simulacro": 3,
+      "tema": "3",
+      "norma": "N7",
+      "fmt": "A",
+      "q": "Si a las 6:00 p.m. todavía hay personas formadas que llegaron a esa hora o antes:",
+      "opts": [
+        "La casilla cierra la votación después de que voten",
+        "La casilla cierra a las 6:00 p.m. sin excepción",
+        "Solo pueden votar quienes estén en la lista adicional",
+        "La Presidencia debe consultar al Consejo Distrital"
+      ],
+      "correct": 0,
+      "expl": "La guía permite cerrar después de las 6:00 p.m. si hay personas formadas que llegaron a esa hora o antes.",
+      "fuente": "Guía IEES, 10. Jornada electoral"
+    },
+    {
+      "id": "IE3-38",
+      "simulacro": 3,
+      "tema": "3",
+      "norma": "N7",
+      "fmt": "A",
+      "q": "En el escrutinio y cómputo, las boletas que no se usaron se cancelan:",
+      "opts": [
+        "Con dos rayas diagonales, sin desprenderlas de los blocs",
+        "Con una raya horizontal, después de desprenderlas de los blocs",
+        "Con el sello «X», sin desprenderlas de los blocs",
+        "Rompiéndolas por la mitad y guardándolas en un sobre"
+      ],
+      "correct": 0,
+      "expl": "Se cancelan con dos rayas diagonales, sin desprenderlas de los blocs.",
+      "fuente": "Guía IEES, 10. Jornada electoral"
+    },
+    {
+      "id": "IE3-39",
+      "simulacro": 3,
+      "tema": "3",
+      "norma": "N7",
+      "fmt": "A",
+      "q": "Según la guía, las y los funcionarios de casilla son ciudadanas y ciudadanos:",
+      "opts": [
+        "Seleccionados mediante sorteo y capacitados por el INE",
+        "Designados por los partidos políticos y capacitados por el IEES",
+        "Propuestos por los consejos distritales del IEES",
+        "Voluntarios inscritos en una convocatoria pública del IEES"
+      ],
+      "correct": 0,
+      "expl": "La nota de la guía los define como personas seleccionadas por sorteo y capacitadas por el INE.",
+      "fuente": "Guía IEES, 9.3 y 10"
+    },
+    {
+      "id": "IE3-40",
+      "simulacro": 3,
+      "tema": "4",
+      "norma": "N9",
+      "fmt": "A",
+      "q": "¿Cómo debe encabezarse la lista de Diputaciones de representación proporcional en Sinaloa?",
+      "opts": [
+        "Por una fórmula integrada por mujeres",
+        "Por una fórmula integrada por hombres",
+        "Por la fórmula que decida cada partido",
+        "Por la fórmula que obtenga más votos internos"
+      ],
+      "correct": 0,
+      "expl": "La guía indica que la lista RP debe encabezarse por una fórmula de mujeres.",
+      "fuente": "Guía IEES, 15. Igualdad de género"
+    },
+    {
+      "id": "IE3-41",
+      "simulacro": 3,
+      "tema": "4",
+      "norma": "N9",
+      "fmt": "A",
+      "q": "En la asignación de representación proporcional, si el órgano no queda integrado con al menos el 50 % de mujeres:",
+      "opts": [
+        "Se sustituyen fórmulas de hombres por fórmulas de mujeres hasta el 50 %",
+        "Se repite la elección en los distritos que tengan menos mujeres electas",
+        "Se crean lugares adicionales que se asignan únicamente a mujeres",
+        "Se respeta la integración tal como resultó de la votación"
+      ],
+      "correct": 0,
+      "expl": "Es el ajuste de género en las asignaciones de RP descrito en la guía.",
+      "fuente": "Guía IEES, 15. Igualdad de género"
+    },
+    {
+      "id": "IE3-42",
+      "simulacro": 3,
+      "tema": "4",
+      "norma": "N9",
+      "fmt": "A",
+      "q": "Según la definición de la guía, la violencia política contra las mujeres en razón de género comprende:",
+      "opts": [
+        "Toda acción u omisión, incluida la tolerancia, basada en el género",
+        "Solo las agresiones físicas cometidas contra mujeres candidatas",
+        "Solo los actos cometidos contra mujeres durante las campañas electorales",
+        "Solo los actos cometidos por personas servidoras públicas en funciones"
+      ],
+      "correct": 0,
+      "expl": "La definición incluye acciones, omisiones y tolerancia, en el ámbito público o privado.",
+      "fuente": "Guía IEES, 16. VPMRG"
+    },
+    {
+      "id": "IE3-43",
+      "simulacro": 3,
+      "tema": "4",
+      "norma": "N9",
+      "fmt": "A",
+      "q": "¿En qué proceso electoral local implementó el IEES por primera vez acciones afirmativas para personas con discapacidad y juventudes?",
+      "opts": [
+        "En el PEL 2023-2024",
+        "En el PEL 2020-2021",
+        "En el PEL 2017-2018",
+        "En el PEL 2026-2027"
+      ],
+      "correct": 0,
+      "expl": "Pueblos indígenas y diversidad sexual se implementaron en 2020-2021; discapacidad y juventudes, en 2023-2024.",
+      "fuente": "Guía IEES, 17. Acciones afirmativas"
+    },
+    {
+      "id": "IE3-44",
+      "simulacro": 3,
+      "tema": "4",
+      "norma": "N10",
+      "fmt": "A",
+      "q": "El recurso de reconsideración puede interponerse exclusivamente por:",
+      "opts": [
+        "Los partidos, contra la asignación de Diputaciones de RP",
+        "Las candidaturas independientes, contra los cómputos municipales de su elección",
+        "La ciudadanía, contra la negativa de registro de su candidatura ante el IEES",
+        "Los partidos, contra los cómputos distritales de la elección de Gubernatura"
+      ],
+      "correct": 0,
+      "expl": "La guía lo reserva a los partidos para impugnar la asignación de Diputaciones RP que realiza el Consejo General.",
+      "fuente": "Guía IEES, 18. Medios de impugnación"
+    },
+    {
+      "id": "IE3-45",
+      "simulacro": 3,
+      "tema": "4",
+      "norma": "N10",
+      "fmt": "A",
+      "q": "En el procedimiento sancionador especial, ¿quién sustancia y quién resuelve?",
+      "opts": [
+        "Lo sustancia la Secretaría Ejecutiva del IEES y lo resuelve el TEESIN",
+        "Lo sustancia el Consejo Distrital y lo resuelve el Consejo General",
+        "Lo sustancia la Comisión de Quejas y lo resuelve la Secretaría Ejecutiva",
+        "Lo sustancia el TEESIN y lo resuelve el Consejo General"
+      ],
+      "correct": 0,
+      "expl": "La guía indica que lo sustancia el IEES a través de su Secretaría Ejecutiva y lo resuelve el TEESIN.",
+      "fuente": "Guía IEES, 19. Procedimiento sancionador"
+    },
+    {
+      "id": "IE3-46",
+      "simulacro": 3,
+      "tema": "4",
+      "norma": "N10",
+      "fmt": "A",
+      "q": "¿Cuál es la finalidad de las medidas cautelares en los procedimientos sancionadores?",
+      "opts": [
+        "Lograr el cese de los actos y evitar daños irreparables",
+        "Imponer la sanción definitiva a la persona que cometió la infracción",
+        "Reparar el daño causado a la persona denunciante con una indemnización",
+        "Ordenar la investigación penal de los hechos a la Fiscalía del Estado"
+      ],
+      "correct": 0,
+      "expl": "Buscan el cese de los actos, evitando daños irreparables o la afectación de los principios, hasta la resolución definitiva.",
+      "fuente": "Guía IEES, 19. Procedimiento sancionador"
+    },
+    {
+      "id": "IE3-47",
+      "simulacro": 3,
+      "tema": "4",
+      "norma": "N10",
+      "fmt": "A",
+      "q": "En Sinaloa, la Fiscalía Especializada en Atención de Delitos Electorales:",
+      "opts": [
+        "Tiene nivel de Vicefiscalía y depende de la Fiscalía General del Estado",
+        "Es un órgano constitucional autónomo independiente de la Fiscalía General",
+        "Depende orgánicamente del Instituto Electoral del Estado de Sinaloa",
+        "Depende orgánicamente de la Fiscalía General de la República"
+      ],
+      "correct": 0,
+      "expl": "La guía señala que tiene nivel de Vicefiscalía General y depende orgánicamente de la Fiscalía General del Estado.",
+      "fuente": "Guía IEES, 20. Delitos electorales"
+    },
+    {
+      "id": "IE3-48",
+      "simulacro": 3,
+      "tema": "1",
+      "norma": "N1",
+      "fmt": "A",
+      "q": "¿Cuál de los siguientes es un DERECHO de la ciudadanía en materia electoral?",
+      "opts": [
+        "Participar como observador de los procesos electorales",
+        "Integrar las mesas directivas de casilla cuando resulte insaculado",
+        "Desempeñar las funciones electorales y las de jurado cuando se le requiera",
+        "Desempeñar los cargos concejiles del municipio donde tenga su residencia"
+      ],
+      "correct": 0,
+      "expl": "La observación electoral es un derecho (fracción VIII); las otras tres opciones son obligaciones.",
+      "fuente": "Guía IEES, 1. Derechos y obligaciones"
+    },
+    {
+      "id": "IE3-49",
+      "simulacro": 3,
+      "tema": "1",
+      "norma": "N1",
+      "fmt": "A",
+      "q": "La fracción II de los derechos de la ciudadanía reconoce el derecho a poder ser votada:",
+      "opts": [
+        "En condiciones de paridad para todos los cargos de elección popular",
+        "Solo para los cargos municipales de elección popular",
+        "Únicamente cuando lo postule un partido político",
+        "Para cualquier cargo, sin necesidad de reunir calidades legales"
+      ],
+      "correct": 0,
+      "expl": "El derecho es a ser votada en condiciones de paridad para todos los cargos, teniendo las calidades que establezca la ley.",
+      "fuente": "Guía IEES, 1. Derechos y obligaciones"
+    },
+    {
+      "id": "IE3-50",
+      "simulacro": 3,
+      "tema": "1",
+      "norma": "N1",
+      "fmt": "A",
+      "q": "Desempeñar los cargos concejiles del municipio donde se reside, las funciones electorales y las de jurado es, según la guía:",
+      "opts": [
+        "Una obligación de la ciudadanía",
+        "Un derecho de la ciudadanía",
+        "Una prerrogativa de los partidos políticos",
+        "Una facultad exclusiva del Consejo General del IEES"
+      ],
+      "correct": 0,
+      "expl": "Es la fracción III de las obligaciones de la ciudadanía.",
+      "fuente": "Guía IEES, 1. Derechos y obligaciones"
+    }
+  ]
+}
